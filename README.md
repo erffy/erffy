@@ -1,26 +1,20 @@
 <h3 align="center">This new account for my old <a href="https://github.com/erqewee">GitHub Account</h3>
+  
+# 💫 About Me:
+🔭 I’m currently working on hypr.db npm module<br>🌱 I’m currently learning C#.<br>💬 Ask me about JavaScript with NodeJS.
 
-<h5 align="center">If there were no software developers, even if we had a phone, we would not be able to use it.</h1>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erqeweeofficial) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/erqeweeofficial) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/erqeweeofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/erqeweeofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCGKiqNPhpMxdzS6Zx2prRsQ) 
 
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">About Me</summary>
-  <br>
-  <p>My name is Eren! I'm 16 years old. I'm currently learning <b>C#</b> and <b>C++</b>! My goal is Software Engineer.</p>
-</details>
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">My Stats</summary>
-  <br>
- <img src="https://github-readme-stats.vercel.app/api?username=erqeweew&show_icons=true&theme=dark"/> 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=erqeweew&theme=dark"/>
- <img src="https://github-profile-trophy.vercel.app/?username=erqeweew&theme=nord" width="%100" height="150px" alt="stats" />
- <h3>Most Used Languages (Last Year)</h3>
- <img src="https://wakatime.com/share/@erqewee/0247cfa0-bbf7-49b0-b660-4a734e7ff28e.svg" height="400">
- <h6>Powered by <a href="https://www.wakatime.com" target="_blank">&nbsp;wakatime.com&nbsp;</a></h6>
-</details>
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">Contact Me</summary>
-  <br>
-  <p>My Discord Server (<a href="https://discord.com/users/744835491643260988" target="_blank">My Profile</a>): <a href="https://discord.gg/ZwhgJvXqm9" target="_blank">discord.gg/ZwhgJvXqm9</a>
-  <p>My YouTube Channel: <a href="https://youtube.com/@erqewee" target="_blank">youtube.com/@erqewee</a>
-  <p>My Twitter Adress: <a href="https://twitter.com/erqeweeofficial" target="_blank">twitter.com/erqeweeofficial</a></p>
-</details>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=erqeweew&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=erqeweew&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=erqeweew&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=erqeweew&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=erqeweew&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)

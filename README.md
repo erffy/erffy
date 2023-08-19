@@ -1,5 +1,3 @@
-<h3 align="center">This new account for my old <a href="https://github.com/erqewee">GitHub Account</h3>
-  
 # 💫 About Me:
 🔭 I’m currently working on hypr.db npm module<br>🌱 I’m currently learning C#.<br>💬 Ask me about JavaScript with NodeJS.
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on hypr.db npm module<br>🌱 I’m currently learning C#.<br>💬 Ask me about JavaScript with NodeJS.
+🔭 I’m currently not working on anything<br>🌱 I’m currently learning C.<br>💬 Ask me about JavaScript.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erqeweeofficial) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/erqeweeofficial) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/erqeweeofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/erqeweeofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCGKiqNPhpMxdzS6Zx2prRsQ) 

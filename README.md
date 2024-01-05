@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on efidb.<br>🌱 I’m currently learning C and Solidity.<br>💬 Ask me about JavaScript.
+🌱 I’m currently learning C.<br>💬 Ask me about JavaScript.
 
 
 ## 🌐 Socials:

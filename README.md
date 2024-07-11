@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React & TailwindCSS<br>💬 Ask me about JavaScript/TypeScript
+💫 I'm currently working on erf.db<br>🌱 I’m currently learning React & TailwindCSS<br>💬 Ask me about JavaScript/TypeScript
 
 
 ## 🌐 Socials:

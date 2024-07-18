@@ -18,9 +18,11 @@
 <br>
 
 ### Most Used Languages
+<ol>
 {{ LANGUAGE_TEMPLATE_START:max=6 }}
-- <span style="color: {{ LANGUAGE_COLOR }};">**{{ LANGUAGE_NAME }}:** {{ LANGUAGE_PERCENT }}%</span><br>
+<li style="color: {{ LANGUAGE_COLOR }};">**{{ LANGUAGE_NAME }}:** {{ LANGUAGE_PERCENT }}%</li><br>
 {{ LANGUAGE_TEMPLATE_END }}
+</ol>
 
 <br>
 

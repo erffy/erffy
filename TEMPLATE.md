@@ -19,7 +19,7 @@
 
 ### Most Used Languages
 {{ LANGUAGE_TEMPLATE_START:max=6 }}
-  <span style="color: {{ LANGUAGE_COLOR }};">{{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }}%</span>
+<span style="color: {{ LANGUAGE_COLOR }};">{{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }}%</span><br>
 {{ LANGUAGE_TEMPLATE_END }}
 
 <br>

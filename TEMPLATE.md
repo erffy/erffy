@@ -1,7 +1,10 @@
 ## 💫 About Me:
+Hi, I'm Eren!
 
+I love coding and listening to music. Currently, I'm learning React and TailwindCSS. My goal is to become a software engineer and continuously improve my skills in the field of software development.
 
-💫 I'm currently working on [erf.db](https://github.com/erffy/erfdb)<br>🌱 I’m currently learning React & TailwindCSS<br>💬 Ask me about JavaScript/TypeScript
+💫 I'm currently working on [erfdb](https://github.com/erffy/erfdb) and [erfevents](https://github.com/erffy/erfevents) <br>
+💬 Ask me about JavaScript/TypeScript
 
 ### 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theerffy) 

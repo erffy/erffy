@@ -14,14 +14,12 @@
 - Received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects
 - Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
 > I'm proud of these achievements on my GitHub journey!
-> 
+
 <br>
 
 ### Most Used Languages
-{{ LANGUAGE_TEMPLATE_START }}
-
-  <span style="color: {{ LANGUAGE_COLOR }}; font-weight: bold;">{{ LANGUAGE_NAME }}: <span style="margin-left: 10px;">{{ LANGUAGE_PERCENT }}%</span></span>
-  
+{{ LANGUAGE_TEMPLATE_START:max=6 }}
+  <span style="color: {{ LANGUAGE_COLOR }};">{{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }}%</span>
 {{ LANGUAGE_TEMPLATE_END }}
 
 <br>

@@ -2,7 +2,7 @@
 Hi, I'm Eren!<br>
 I love coding and listening to music. My goal is to become a software engineer and continuously improve my skills in the field of software development.
 
-🛠️ I'm currently developing [portfolio](https://github.com/erffy/portfolio) site, based on [afsakar/vcard-portfolio](https://github.com/afsakar/vcard-portfolio) template <br>
+🛠️ I'm currently developing [portfolio](https://github.com/erffy/portfolio) site <br>
 📝 I'm currently working on [erfdb](https:/7github.com/erffy/erfdb), [erfevents](https://github.com/erffy/erfevents) <br>
 🌱 I'm currently learning Vue with TailwindCSS <br>
 💬 Ask me about JavaScript/TypeScript

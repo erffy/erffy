@@ -17,7 +17,7 @@ I love coding and listening to music. My goal is to become a software engineer a
 - Made **273** commits
 - Opened **4** issues
 - Submitted **0** pull requests
-- Received **6** stars across **10** personal projects
+- Received **7** stars across **10** personal projects
 - Contributed to **5** public repositories
 > I'm proud of these achievements on my GitHub journey!
 

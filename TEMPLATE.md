@@ -4,8 +4,8 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 🛠️ I'm currently developing [portfolio](https://github.com/erffy/portfolio) site <br>
 📝 I'm currently working on [erfdb](https:/7github.com/erffy/erfdb), [erfevents](https://github.com/erffy/erfevents) <br>
-🌱 I'm currently learning Vue with TailwindCSS <br>
-💬 Ask me about JavaScript/TypeScript
+🌱 I'm currently learning React with TailwindCSS <br>
+💬 Ask me about JavaScript / TypeScript
 
 ### 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theerffy) 

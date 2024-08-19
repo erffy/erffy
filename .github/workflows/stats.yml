@@ -12,6 +12,8 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@main
         with:
@@ -20,6 +22,16 @@ jobs:
         uses: teoxoy/profile-readme-stats@master
         with:
           token: ${{ secrets.USER_TOKEN }}
+      - name: Update README
+        shell: bash
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
+            git add *.md
+            git commit -m ":zap: Update README"
+            git push
+          fi
       - name: Add Activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
@@ -27,14 +39,4 @@ jobs:
         with:
           COMMIT_NAME: "github-actions[bot]"
           COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
-      - name: Update README.md
-        shell: bash
-        run: |
-          if [[ "$(git status --porcelain)" != "" ]]; then
-            git config user.name 'github-actions[bot]'
-            git config user.email 'github-actions[bot]@users.noreply.github.com'
-            git add *.md
-            git commit -m "Update README.md"
-            git push
-          fi
-        
+          COMMIT_MSG: ":zap: Add Activity to README"

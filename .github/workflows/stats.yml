@@ -1,4 +1,4 @@
-name: Stats Updater
+name: README Updater
 
 on:
   schedule:
@@ -16,10 +16,17 @@ jobs:
       - uses: actions/checkout@main
         with:
           fetch-depth: 0
-      - name: Generate README.md
+      - name: Add Stats
         uses: teoxoy/profile-readme-stats@master
         with:
           token: ${{ secrets.USER_TOKEN }}
+      - name: Add Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_NAME: "github-actions[bot]"
+          COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
       - name: Update README.md
         shell: bash
         run: |
@@ -30,3 +37,4 @@ jobs:
             git commit -m "Update README.md"
             git push
           fi
+        

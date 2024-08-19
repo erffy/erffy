@@ -29,8 +29,6 @@ I love coding and listening to music. My goal is to become a software engineer a
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<br>
-
 ### 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=erffy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 

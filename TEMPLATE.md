@@ -25,6 +25,10 @@ I love coding and listening to music. My goal is to become a software engineer a
 {{ LANGUAGE_TEMPLATE_END }}
 </ol>
 
+#### Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <br>
 
 ### 🏆 Trophies

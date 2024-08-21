@@ -30,11 +30,6 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#379](https://github.com/zen-browser/desktop/issues/379) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🎉 Merged PR [#1](https://github.com/erffy/erfdb/pull/1) in [erffy/erfdb](https://github.com/erffy/erfdb)
-3. 🔒 Closed issue [#1](https://github.com/erffy/Modern-PackageInstaller/issues/1) in [erffy/Modern-PackageInstaller](https://github.com/erffy/Modern-PackageInstaller)
-4. 🗣 Commented on [#1](https://github.com/erffy/Modern-PackageInstaller/issues/1#issuecomment-2237024426) in [erffy/Modern-PackageInstaller](https://github.com/erffy/Modern-PackageInstaller)
-5. ❗ Opened issue [#119](https://github.com/salvogiangri/UN1CA/issues/119) in [salvogiangri/UN1CA](https://github.com/salvogiangri/UN1CA)
 <!--END_SECTION:activity-->
 
 ### 🏆 Trophies

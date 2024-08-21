@@ -12,10 +12,10 @@ I love coding and listening to music. My goal is to become a software engineer a
 ### 📊 GitHub Stats:
 #### Since joining GitHub 1 years ago, I have:
 - Made **308** commits
-- Opened **4** issues
+- Opened **5** issues
 - Submitted **0** pull requests
 - Received **7** stars across **10** personal projects
-- Contributed to **3** public repositories
+- Contributed to **4** public repositories
 > I'm proud of these achievements on my GitHub journey!
 
 #### Most Used Languages
@@ -30,10 +30,6 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/erffy/erfdb/pull/1) in [erffy/erfdb](https://github.com/erffy/erfdb)
-2. 🔒 Closed issue [#1](https://github.com/erffy/Modern-PackageInstaller/issues/1) in [erffy/Modern-PackageInstaller](https://github.com/erffy/Modern-PackageInstaller)
-3. 🗣 Commented on [#1](https://github.com/erffy/Modern-PackageInstaller/issues/1#issuecomment-2237024426) in [erffy/Modern-PackageInstaller](https://github.com/erffy/Modern-PackageInstaller)
-4. ❗ Opened issue [#119](https://github.com/salvogiangri/UN1CA/issues/119) in [salvogiangri/UN1CA](https://github.com/salvogiangri/UN1CA)
 <!--END_SECTION:activity-->
 
 ### 🏆 Trophies

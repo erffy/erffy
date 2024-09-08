@@ -30,11 +30,6 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [09072024.0](https://github.com/erffy/dots/releases/tag/09072024.0) in [erffy/dots](https://github.com/erffy/dots)
-2. 🚀 Published release [08262024.0](https://github.com/erffy/dots/releases/tag/08262024.0) in [erffy/dots](https://github.com/erffy/dots)
-3. 🗣 Commented on [#533](https://github.com/xrelkd/clipcat/issues/533#issuecomment-2304753249) in [xrelkd/clipcat](https://github.com/xrelkd/clipcat)
-4. ❗ Opened issue [#533](https://github.com/xrelkd/clipcat/issues/533) in [xrelkd/clipcat](https://github.com/xrelkd/clipcat)
-5. ❗ Opened issue [#379](https://github.com/zen-browser/desktop/issues/379) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
 <!--END_SECTION:activity-->
 
 ### 🏆 Trophies

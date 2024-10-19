@@ -14,7 +14,7 @@ I love coding and listening to music. My goal is to become a software engineer a
 - Made **265** commits
 - Opened **6** issues
 - Submitted **0** pull requests
-- Received **8** stars across **9** personal projects
+- Received **6** stars across **9** personal projects
 - Contributed to **6** public repositories
 > I'm proud of these achievements on my GitHub journey!
 
@@ -30,11 +30,6 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [10032024.0](https://github.com/erffy/dots/releases/tag/10032024.0) in [erffy/dots](https://github.com/erffy/dots)
-2. 🚀 Published release [09272024.0](https://github.com/erffy/dots/releases/tag/09272024.0) in [erffy/dots](https://github.com/erffy/dots)
-3. 🚀 Published release [09212024.0](https://github.com/erffy/dots/releases/tag/09212024.0) in [erffy/dots](https://github.com/erffy/dots)
-4. 🚀 Published release [09202024.0](https://github.com/erffy/dots/releases/tag/09202024.0) in [erffy/dots](https://github.com/erffy/dots)
-5. 🚀 Published release [09142024.0](https://github.com/erffy/dots/releases/tag/09142024.0) in [erffy/dots](https://github.com/erffy/dots)
 <!--END_SECTION:activity-->
 
 ### 🏆 Trophies

@@ -35,13 +35,6 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool 
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
-### 📰 Recent Blog Posts
-
-- [The Most Popular Windows Utility](https://christitus.com/winutil-install/)
-- [Crowdstrike Alternatives](https://christitus.com/crowdstrike-alternatives/)
-- [Home Theater PC](https://christitus.com/home-theater-pc/)
-- [Why You NEED to Contribute to Open Source](https://christitus.com/why-you-NEED-to-contribute-to-open-source/)
-- [My Problems With Linux](https://christitus.com/my-problems-with-linux/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

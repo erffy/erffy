@@ -28,10 +28,6 @@ I love coding and listening to music. My goal is to become a software engineer a
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
-### 📰 Recent Blog Posts
-{{ range rss "https://christitus.com/index.xml" 5 }}
-- [{{ .Title }}]({{ .URL }})
-{{- end }}
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

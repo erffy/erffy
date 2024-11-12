@@ -27,11 +27,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### ⭐ Recent Stars
 
+- [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
 - [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

@@ -27,11 +27,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### ⭐ Recent Stars
 
+- [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids
 - [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
 - [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

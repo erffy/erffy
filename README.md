@@ -29,7 +29,7 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 - [mt190502/stars](https://github.com/mt190502/stars) - 
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
 - [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
 - [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 

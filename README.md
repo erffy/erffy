@@ -11,8 +11,8 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
-- [erffy/erfdb](https://github.com/erffy/erfdb) - A Map-based Smartest and Fastest database module
 - [erffy/dots](https://github.com/erffy/dots) - My system configuration files
+- [erffy/erfdb](https://github.com/erffy/erfdb) - A Map-based Smartest and Fastest database module
 - [erffy/erfevents](https://github.com/erffy/erfevents) - A powerful EventEmitter module based on Map and Set.
 - [erffy/hyprdb](https://github.com/erffy/hyprdb) - Faster, Lightweight and Advanced database module.
 - [erffy/todo-list](https://github.com/erffy/todo-list) - Simple to-do app.

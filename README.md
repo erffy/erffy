@@ -25,6 +25,7 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [erffy/number-guessing-game](https://github.com/erffy/number-guessing-game) - Number Guessing Game written by C.
 #### 🔨 My recent Pull Requests
 
+- [1.1.1-beta.1 release](https://github.com/erffy/erfdb/pull/8) on [erffy/erfdb](https://github.com/erffy/erfdb)
 - [1.1.0](https://github.com/erffy/erfdb/pull/7) on [erffy/erfdb](https://github.com/erffy/erfdb)
 - [1.0.1](https://github.com/erffy/erfdb/pull/6) on [erffy/erfdb](https://github.com/erffy/erfdb)
 #### ⭐ Recent Stars

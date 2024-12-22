@@ -30,11 +30,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [1.0.1](https://github.com/erffy/erfdb/pull/6) on [erffy/erfdb](https://github.com/erffy/erfdb)
 #### ⭐ Recent Stars
 
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [dabao1955/kernel_build_action](https://github.com/dabao1955/kernel_build_action) - a action to build kernel automatically[force push warning!]
 - [mt190502/stars](https://github.com/mt190502/stars) - 
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
-- [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

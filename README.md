@@ -11,10 +11,10 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
+- [erffy/dots](https://github.com/erffy/dots) - My system configuration files
 - [discordiumjs/emitter](https://github.com/discordiumjs/emitter) - ✨ A modern and powerful EventEmitter
 - [discordiumjs/discordium.js](https://github.com/discordiumjs/discordium.js) - ✨ A sleek, modern, and minimalist Discord API wrapper.
 - [discordiumjs/.github](https://github.com/discordiumjs/.github) - 
-- [erffy/dots](https://github.com/erffy/dots) - My system configuration files
 - [erffy/erfdb](https://github.com/erffy/erfdb) - A Map-based Smartest and Fastest database module
 #### 🌱 My latest projects
 

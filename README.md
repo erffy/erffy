@@ -13,8 +13,8 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 - [erffy/dots](https://github.com/erffy/dots) - My system configuration files
 - [discordiumjs/emitter](https://github.com/discordiumjs/emitter) - ✨ A modern and powerful EventEmitter
-- [discordiumjs/discordium.js](https://github.com/discordiumjs/discordium.js) - ✨ A sleek, modern, and minimalist Discord API wrapper.
 - [discordiumjs/.github](https://github.com/discordiumjs/.github) - 
+- [discordiumjs/discordium.js](https://github.com/discordiumjs/discordium.js) - ✨ A sleek, modern, and minimalist Discord API wrapper.
 - [erffy/erfdb](https://github.com/erffy/erfdb) - A Map-based Smartest and Fastest database module
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [erffy/number-guessing-game](https://github.com/erffy/number-guessing-game) - Number Guessing Game written by C.
 #### 🔨 My recent Pull Requests
 
+- [Merge branch &#39;dev&#39; to &#39;stable&#39;](https://github.com/discordiumjs/emitter/pull/5) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
+- [Merge branch &#39;stable&#39; to &#39;dev&#39;](https://github.com/discordiumjs/emitter/pull/4) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
 - [chore: update readme](https://github.com/discordiumjs/emitter/pull/3) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
 - [refactor: refactor event emitter types and update default options](https://github.com/discordiumjs/emitter/pull/2) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
 - [1.0.0](https://github.com/discordiumjs/emitter/pull/1) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
-- [1.1.1-beta.1 release](https://github.com/erffy/erfdb/pull/8) on [erffy/erfdb](https://github.com/erffy/erfdb)
-- [1.1.0](https://github.com/erffy/erfdb/pull/7) on [erffy/erfdb](https://github.com/erffy/erfdb)
 #### ⭐ Recent Stars
 
 - [discordiumjs/discordium.js](https://github.com/discordiumjs/discordium.js) - ✨ A sleek, modern, and minimalist Discord API wrapper.

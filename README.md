@@ -11,11 +11,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
+- [0l3d/arrow](https://github.com/0l3d/arrow) - A Linux-specific package manager that lets you search and find missing packages at any time, regardless of your Linux distribution.
 - [erffy/apkg](https://github.com/erffy/apkg) - 📦 A lightweight and versatile package repository for managing and distributing software packages seamlessly
-- [discordiumjs/discordium.js](https://github.com/discordiumjs/discordium.js) - ✨ A sleek, modern, and minimalist Discord API wrapper.
+- [discordiumjs/.github](https://github.com/discordiumjs/.github) - 
 - [erffy/dots](https://github.com/erffy/dots) - My system configuration files
 - [discordiumjs/emitter](https://github.com/discordiumjs/emitter) - ✨ A modern and powerful EventEmitter
-- [discordiumjs/.github](https://github.com/discordiumjs/.github) - 
 #### 🌱 My latest projects
 
 - [erffy/apkg](https://github.com/erffy/apkg) - 📦 A lightweight and versatile package repository for managing and distributing software packages seamlessly

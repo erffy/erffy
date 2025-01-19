@@ -11,8 +11,8 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
-- [erffy/dots](https://github.com/erffy/dots) - My system configuration files
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Sleek and lightweight Waybar modules built with Zig
+- [erffy/dots](https://github.com/erffy/dots) - My system configuration files
 - [0l3d/arrow](https://github.com/0l3d/arrow) - A Linux-specific package manager that lets you search and find missing packages at any time, regardless of your Linux distribution.
 - [erffy/apkg](https://github.com/erffy/apkg) - 📦 A lightweight and versatile package repository for managing and distributing software packages seamlessly
 - [discordiumjs/emitter](https://github.com/discordiumjs/emitter) - ✨ A modern and powerful EventEmitter

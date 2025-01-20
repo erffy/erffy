@@ -32,11 +32,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [1.0.0](https://github.com/discordiumjs/emitter/pull/1) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
 #### ⭐ Recent Stars
 
+- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 - [0l3d/dotfiles](https://github.com/0l3d/dotfiles) - Gentoo &#43; Linux dotfiles.
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Sleek and lightweight Waybar modules built with Zig
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [erffy/apkg](https://github.com/erffy/apkg) - 📦 A lightweight and versatile package repository for managing and distributing software packages seamlessly
-- [0l3d/arrow](https://github.com/0l3d/arrow) - A Linux-specific package manager that lets you search and find missing packages at any time, regardless of your Linux distribution.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

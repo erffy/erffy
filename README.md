@@ -25,11 +25,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [erffy/erfdb](https://github.com/erffy/erfdb) - A Map-based Smartest and Fastest database module
 #### 🔨 My recent Pull Requests
 
+- [1.0.0 stable](https://github.com/erffy/quartz.db/pull/2) on [erffy/quartz.db](https://github.com/erffy/quartz.db)
+- [1.0.0 Beta](https://github.com/erffy/quartz.db/pull/1) on [erffy/quartz.db](https://github.com/erffy/quartz.db)
 - [Merge branch &#39;dev&#39; to &#39;stable&#39;](https://github.com/discordiumjs/emitter/pull/5) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
 - [Merge branch &#39;stable&#39; to &#39;dev&#39;](https://github.com/discordiumjs/emitter/pull/4) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
 - [chore: update readme](https://github.com/discordiumjs/emitter/pull/3) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
-- [refactor: refactor event emitter types and update default options](https://github.com/discordiumjs/emitter/pull/2) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
-- [1.0.0](https://github.com/discordiumjs/emitter/pull/1) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
 #### ⭐ Recent Stars
 
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go

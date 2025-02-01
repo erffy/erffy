@@ -2,7 +2,7 @@
 Hi, I'm Eren!<br>
 I love coding and listening to music. My goal is to become a software engineer and continuously improve my skills in the field of software development.
 
-📝 I'm currently working on [erfdb](https://github.com/erffy/erfdb), [erfevents](https://github.com/erffy/erfevents). <br>
+📝 I'm currently working on [quartz.db](https://github.com/erffy/quartz.db), [erfevents](https://github.com/erffy/erfevents). <br>
 🌱 I'm currently learning Zig. <br>
 
 ### GitHub Stats
@@ -25,18 +25,18 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [erffy/erfdb](https://github.com/erffy/erfdb) - A Map-based Smartest and Fastest database module
 #### 🔨 My recent Pull Requests
 
+- [Update turkish translations](https://github.com/timschneeb/GalaxyBudsClient/pull/591) on [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient)
 - [1.0.0](https://github.com/erffy/quartz.db/pull/5) on [erffy/quartz.db](https://github.com/erffy/quartz.db)
 - [1.1.0 Beta](https://github.com/erffy/quartz.db/pull/3) on [erffy/quartz.db](https://github.com/erffy/quartz.db)
 - [1.0.0 stable](https://github.com/erffy/quartz.db/pull/2) on [erffy/quartz.db](https://github.com/erffy/quartz.db)
 - [1.0.0 Beta](https://github.com/erffy/quartz.db/pull/1) on [erffy/quartz.db](https://github.com/erffy/quartz.db)
-- [Merge branch &#39;dev&#39; to &#39;stable&#39;](https://github.com/discordiumjs/emitter/pull/5) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
 #### ⭐ Recent Stars
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
 - [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android&#39;s most thorough cleaning tool.
-- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

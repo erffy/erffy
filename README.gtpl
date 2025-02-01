@@ -2,7 +2,7 @@
 Hi, I'm Eren!<br>
 I love coding and listening to music. My goal is to become a software engineer and continuously improve my skills in the field of software development.
 
-📝 I'm currently working on [erfdb](https://github.com/erffy/erfdb), [erfevents](https://github.com/erffy/erfevents). <br>
+📝 I'm currently working on [quartz.db](https://github.com/erffy/quartz.db), [erfevents](https://github.com/erffy/erfevents). <br>
 🌱 I'm currently learning Zig. <br>
 
 ### GitHub Stats

@@ -32,11 +32,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [1.0.0 stable](https://github.com/erenitylabs/quartz.db/pull/2) on [erenitylabs/quartz.db](https://github.com/erenitylabs/quartz.db)
 #### ⭐ Recent Stars
 
+- [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [LinkBoi00/android_kernel_xiaomi_garnet](https://github.com/LinkBoi00/android_kernel_xiaomi_garnet) - 
 - [JingMatrix/NeoZygisk](https://github.com/JingMatrix/NeoZygisk) - Zygote injection with ptrace
 - [rifsxd/KernelSU-Next](https://github.com/rifsxd/KernelSU-Next) - A Kernel based root solution for Android
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

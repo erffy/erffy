@@ -25,7 +25,7 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [erffy/erfdb](https://github.com/erffy/erfdb) - A Map-based Smartest and Fastest database module
 #### 🔨 My recent Pull Requests
 
-- [Update Turkish translations](https://github.com/rifsxd/KernelSU-Next/pull/162) on [rifsxd/KernelSU-Next](https://github.com/rifsxd/KernelSU-Next)
+- [Update Turkish translations](https://github.com/KernelSU-Next/KernelSU-Next/pull/162) on [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 - [Update turkish translations](https://github.com/timschneeb/GalaxyBudsClient/pull/591) on [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient)
 - [1.0.0](https://github.com/erenitylabs/quartz.db/pull/5) on [erenitylabs/quartz.db](https://github.com/erenitylabs/quartz.db)
 - [1.1.0 Beta](https://github.com/erenitylabs/quartz.db/pull/3) on [erenitylabs/quartz.db](https://github.com/erenitylabs/quartz.db)
@@ -34,7 +34,7 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [JingMatrix/NeoZygisk](https://github.com/JingMatrix/NeoZygisk) - Zygote injection with ptrace
-- [rifsxd/KernelSU-Next](https://github.com/rifsxd/KernelSU-Next) - A Kernel based root solution for Android
+- [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - A Kernel based root solution for Android
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 

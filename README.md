@@ -13,23 +13,23 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 - [erenitylabs/.github](https://github.com/erenitylabs/.github) - ✨ Free, independent software hub
 - [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
-- [erffy/erfdb](https://github.com/erffy/erfdb) - A Map-based Smartest and Fastest database module
 - [erffy/erfevents](https://github.com/erffy/erfevents) - A powerful EventEmitter module based on Map and Set.
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Sleek and lightweight Waybar modules built with Zig
+- [erffy/dots](https://github.com/erffy/dots) - My system configuration files
 #### 🌱 My latest projects
 
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Sleek and lightweight Waybar modules built with Zig
 - [erffy/apkg](https://github.com/erffy/apkg) - 📦 A lightweight and versatile package repository for managing and distributing software packages seamlessly
 - [erffy/dots](https://github.com/erffy/dots) - My system configuration files
 - [erffy/erfevents](https://github.com/erffy/erfevents) - A powerful EventEmitter module based on Map and Set.
-- [erffy/erfdb](https://github.com/erffy/erfdb) - A Map-based Smartest and Fastest database module
+- [erffy/todo-list](https://github.com/erffy/todo-list) - Simple to-do app.
 #### 🔨 My recent Pull Requests
 
 - [Update Turkish translations](https://github.com/KernelSU-Next/KernelSU-Next/pull/162) on [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 - [Update turkish translations](https://github.com/timschneeb/GalaxyBudsClient/pull/591) on [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient)
-- [1.0.0](https://github.com/erenitylabs/quartz.db/pull/5) on [erenitylabs/quartz.db](https://github.com/erenitylabs/quartz.db)
-- [1.1.0 Beta](https://github.com/erenitylabs/quartz.db/pull/3) on [erenitylabs/quartz.db](https://github.com/erenitylabs/quartz.db)
-- [1.0.0 stable](https://github.com/erenitylabs/quartz.db/pull/2) on [erenitylabs/quartz.db](https://github.com/erenitylabs/quartz.db)
+- [Merge branch &#39;dev&#39; to &#39;stable&#39;](https://github.com/discordiumjs/emitter/pull/5) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
+- [Merge branch &#39;stable&#39; to &#39;dev&#39;](https://github.com/discordiumjs/emitter/pull/4) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
+- [chore: update readme](https://github.com/discordiumjs/emitter/pull/3) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
 #### ⭐ Recent Stars
 
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.

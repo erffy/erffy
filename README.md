@@ -32,11 +32,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [chore: update readme](https://github.com/discordiumjs/emitter/pull/3) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
 #### ⭐ Recent Stars
 
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [ChiseWaguri/systemapp_nuker](https://github.com/ChiseWaguri/systemapp_nuker) - A module to debloat system app with WebUI.
-- [1q23lyc45/KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

@@ -11,11 +11,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
+- [erffy/dots](https://github.com/erffy/dots) - My system configuration files
 - [erenitylabs/.github](https://github.com/erenitylabs/.github) - ✨ Free, independent software hub
 - [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
 - [erffy/erfevents](https://github.com/erffy/erfevents) - A powerful EventEmitter module based on Map and Set.
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Sleek and lightweight Waybar modules built with Zig
-- [erffy/dots](https://github.com/erffy/dots) - My system configuration files
 #### 🌱 My latest projects
 
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Sleek and lightweight Waybar modules built with Zig

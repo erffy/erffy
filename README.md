@@ -32,11 +32,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [chore: update readme](https://github.com/discordiumjs/emitter/pull/3) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
 #### ⭐ Recent Stars
 
+- [0x5bfa/FluentRegEdit](https://github.com/0x5bfa/FluentRegEdit) - The refreshed Regedit.exe with WinUI for Windows.
 - [kreatoo/cv-template](https://github.com/kreatoo/cv-template) - Kreato&#39;s CV template (also known as the worlds most overengineered CV), using Nix, LaTeX and GitHub Actions
 - [romanvht/ByeDPIAndroid](https://github.com/romanvht/ByeDPIAndroid) - Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

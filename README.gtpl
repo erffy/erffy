@@ -2,7 +2,7 @@
 Hi, I'm Eren!<br>
 I love coding and listening to music. My goal is to become a software engineer and continuously improve my skills in the field of software development.
 
-📝 I'm not working on anything right now. <br>
+📝 I'm currently working on [Sentinel](https://github.com/erenitylabs/sentinel) <br>
 🌱 I'm currently learning Go & Zig.
 
 ### GitHub Stats

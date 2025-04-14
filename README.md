@@ -32,11 +32,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [Merge branch &#39;stable&#39; to &#39;dev&#39;](https://github.com/discordiumjs/emitter/pull/4) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
 #### ⭐ Recent Stars
 
+- [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store, hooking binder
+- [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [kreatoo/bouquet](https://github.com/kreatoo/bouquet) - Fully declarative Kubernetes configuration which includes multiple services and tooling
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [erenitylabs/sentinel](https://github.com/erenitylabs/sentinel) - Sentinel is an open-source Discord bot offering powerful moderation, utility, and economy features
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

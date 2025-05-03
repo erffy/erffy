@@ -11,18 +11,18 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
+- [erffy/mahiru-ksunext-builder](https://github.com/erffy/mahiru-ksunext-builder) - Mahiru &#43; KernelSU-Next kernel builder with Android12-5.10 patches
 - [erenitylabs/sentinel](https://github.com/erenitylabs/sentinel) - Sentinel is an open-source Discord bot offering powerful moderation, utility, and economy features
 - [erffy/chromium-web-store](https://github.com/erffy/chromium-web-store) - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
 - [erenitylabs/.github](https://github.com/erenitylabs/.github) - ✨ Free, independent software hub
 - [erffy/dots](https://github.com/erffy/dots) - My system configuration files
-- [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Sleek and lightweight Waybar modules built with Zig
 #### 🌱 My latest projects
 
+- [erffy/mahiru-ksunext-builder](https://github.com/erffy/mahiru-ksunext-builder) - Mahiru &#43; KernelSU-Next kernel builder with Android12-5.10 patches
 - [erffy/chromium-web-store](https://github.com/erffy/chromium-web-store) - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Sleek and lightweight Waybar modules built with Zig
 - [erffy/apkg](https://github.com/erffy/apkg) - 📦 A lightweight and versatile package repository for managing and distributing software packages seamlessly
 - [erffy/dots](https://github.com/erffy/dots) - My system configuration files
-- [erffy/erfevents](https://github.com/erffy/erfevents) - A powerful EventEmitter module based on Map and Set.
 #### 🔨 My recent Pull Requests
 
 - [Update version to 1.1.0](https://github.com/erenitylabs/sentinel/pull/6) on [erenitylabs/sentinel](https://github.com/erenitylabs/sentinel)
@@ -32,11 +32,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [Merge branch &#39;dev&#39; to &#39;stable&#39;](https://github.com/discordiumjs/emitter/pull/5) on [discordiumjs/emitter](https://github.com/discordiumjs/emitter)
 #### ⭐ Recent Stars
 
+- [Endermanch/LinuxInExcel](https://github.com/Endermanch/LinuxInExcel) - 
 - [slopjs/slopjs](https://github.com/slopjs/slopjs) - 
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [rajmani7584/Payload-Dumper-Android](https://github.com/rajmani7584/Payload-Dumper-Android) - Payload Dumper App for Android. Extract boot.img or any other partitions (images) from OTA.zip or payload.bin without PC without root on Android
 - [salvogiangri/UN1CA](https://github.com/salvogiangri/UN1CA) - Work-in-progress custom firmware for Samsung Galaxy devices.
-- [erffy/chromium-web-store](https://github.com/erffy/chromium-web-store) - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

@@ -11,11 +11,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
+- [erffy-dots/rofi](https://github.com/erffy-dots/rofi) - My rofi config
+- [erffy-dots/qt6ct](https://github.com/erffy-dots/qt6ct) - My qt6ct config
 - [erffy/dots](https://github.com/erffy/dots) - My system configuration files
-- [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Sleek and lightweight Waybar modules built with Zig
-- [erenitylabs/sentinel](https://github.com/erenitylabs/sentinel) - Sentinel is an open-source Discord bot offering powerful moderation, utility, and economy features
-- [erffy/chromium-web-store](https://github.com/erffy/chromium-web-store) - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
-- [erenitylabs/.github](https://github.com/erenitylabs/.github) - ✨ Free, independent software hub
+- [erffy-dots/swaync](https://github.com/erffy-dots/swaync) - My swaync config
+- [erffy-dots/xdp](https://github.com/erffy-dots/xdp) - My xdg-desktop-portal settings
 #### 🌱 My latest projects
 
 - [erffy/chromium-web-store](https://github.com/erffy/chromium-web-store) - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.

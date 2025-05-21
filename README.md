@@ -11,11 +11,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
-- [erffy-dots/fastfetch](https://github.com/erffy-dots/fastfetch) - My fastfetch config
+- [erffy-dots/swaync](https://github.com/erffy-dots/swaync) - My swaync config
+- [erffy-dots/rofi](https://github.com/erffy-dots/rofi) - My rofi config
 - [erffy-dots/hyprland](https://github.com/erffy-dots/hyprland) - My hyprland config
 - [erffy-dots/nvim](https://github.com/erffy-dots/nvim) - My nvim config
-- [erffy-dots/alacritty](https://github.com/erffy-dots/alacritty) - My alacritty config
-- [erffy-dots/.github](https://github.com/erffy-dots/.github) - 
+- [erffy-dots/uwsm](https://github.com/erffy-dots/uwsm) - My uwsm env variables
 #### 🌱 My latest projects
 
 - [erffy/chromium-web-store](https://github.com/erffy/chromium-web-store) - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.

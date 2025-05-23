@@ -11,11 +11,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
-- [erffy-dots/starship](https://github.com/erffy-dots/starship) - My starship config
-- [erffy-dots/waybar](https://github.com/erffy-dots/waybar) - My waybar config
-- [erffy-dots/rofi](https://github.com/erffy-dots/rofi) - My rofi config
 - [erffy-dots/hyprland](https://github.com/erffy-dots/hyprland) - My hyprland config
-- [erffy-dots/fish](https://github.com/erffy-dots/fish) - My fish config
+- [erffy-dots/wlogout](https://github.com/erffy-dots/wlogout) - My wlogout config
+- [erffy-dots/rofi](https://github.com/erffy-dots/rofi) - My rofi config
+- [erffy-dots/waybar](https://github.com/erffy-dots/waybar) - My waybar config
+- [erffy-dots/starship](https://github.com/erffy-dots/starship) - My starship config
 #### 🌱 My latest projects
 
 - [erffy/chromium-web-store](https://github.com/erffy/chromium-web-store) - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
@@ -32,11 +32,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [Update turkish translations](https://github.com/timschneeb/GalaxyBudsClient/pull/591) on [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient)
 #### ⭐ Recent Stars
 
+- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket implementation for zig
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS
 - [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) - Systemless hosts for APatch / KernelSU / Magisk
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

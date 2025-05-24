@@ -12,17 +12,17 @@ I love coding and listening to music. My goal is to become a software engineer a
 #### 👷 Check out what I'm currently working on
 
 - [erffy-dots/hyprland](https://github.com/erffy-dots/hyprland) - My hyprland config
+- [tokyo-night-port/.github](https://github.com/tokyo-night-port/.github) - 
+- [erffy/stars](https://github.com/erffy/stars) - 
 - [erffy-dots/wlogout](https://github.com/erffy-dots/wlogout) - My wlogout config
-- [erffy-dots/rofi](https://github.com/erffy-dots/rofi) - My rofi config
-- [erffy-dots/waybar](https://github.com/erffy-dots/waybar) - My waybar config
 - [erffy-dots/starship](https://github.com/erffy-dots/starship) - My starship config
 #### 🌱 My latest projects
 
+- [erffy/stars](https://github.com/erffy/stars) - 
 - [erffy/chromium-web-store](https://github.com/erffy/chromium-web-store) - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Sleek and lightweight Waybar modules built with Zig
 - [erffy/apkg](https://github.com/erffy/apkg) - 📦 A lightweight and versatile package repository for managing and distributing software packages seamlessly
 - [erffy/dots](https://github.com/erffy/dots) - My system configuration files
-- [erffy/erfevents](https://github.com/erffy/erfevents) - A powerful EventEmitter module based on Map and Set.
 #### 🔨 My recent Pull Requests
 
 - [Make some improvements](https://github.com/dabao1955/kernel_build_action/pull/119) on [dabao1955/kernel_build_action](https://github.com/dabao1955/kernel_build_action)

@@ -12,9 +12,9 @@ I love coding and listening to music. My goal is to become a software engineer a
 #### 👷 Check out what I'm currently working on
 
 - [erffy-dots/.github](https://github.com/erffy-dots/.github) - 
-- [erffy-dots/hyprland](https://github.com/erffy-dots/hyprland) - My hyprland config
 - [erffy-dots/fish](https://github.com/erffy-dots/fish) - My fish config
-- [erffy-dots/uwsm](https://github.com/erffy-dots/uwsm) - My uwsm env variables
+- [erffy-dots/hyprland](https://github.com/erffy-dots/hyprland) - My hyprland config
+- [erffy-dots/alacritty](https://github.com/erffy-dots/alacritty) - My alacritty config
 - [erffy-dots/waybar](https://github.com/erffy-dots/waybar) - My waybar config
 #### 🌱 My latest projects
 

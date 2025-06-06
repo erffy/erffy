@@ -32,11 +32,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [Update turkish translations](https://github.com/timschneeb/GalaxyBudsClient/pull/591) on [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient)
 #### ⭐ Recent Stars
 
+- [kupiqu/SierraBreezeEnhanced](https://github.com/kupiqu/SierraBreezeEnhanced) - Originally a fork of BreezeEnhanced to make it (arguably) more minimalistic and informative
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [bus1/dbus-broker](https://github.com/bus1/dbus-broker) - Linux D-Bus Message Broker
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
-- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

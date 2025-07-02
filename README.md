@@ -11,32 +11,32 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
+- [erffy/dockerffy](https://github.com/erffy/dockerffy) - Docker configuration I use for managing services on my server.
 - [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 - [erffy-dots/.github](https://github.com/erffy-dots/.github) - 
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Lightweight Waybar modules built with Zig
 - [erffy-dots/fish](https://github.com/erffy-dots/fish) - My fish config
-- [erffy-dots/hyprland](https://github.com/erffy-dots/hyprland) - My hyprland config
 #### 🌱 My latest projects
 
+- [erffy/dockerffy](https://github.com/erffy/dockerffy) - Docker configuration I use for managing services on my server.
 - [erffy/stars](https://github.com/erffy/stars) - 
 - [erffy/chromium-web-store](https://github.com/erffy/chromium-web-store) - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Lightweight Waybar modules built with Zig
 - [erffy/apkg](https://github.com/erffy/apkg) - 📦 A lightweight and versatile package repository for managing and distributing software packages seamlessly
-- [erffy/dots](https://github.com/erffy/dots) - My system configuration files
 #### 🔨 My recent Pull Requests
 
+- [docs: Update README_TR.md](https://github.com/KernelSU-Next/KernelSU-Next/pull/598) on [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+- [Update README_TR translations](https://github.com/KernelSU-Next/KernelSU-Next/pull/597) on [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 - [Improve README](https://github.com/KernelSU-Next/KernelSU-Next/pull/562) on [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 - [Make some improvements](https://github.com/dabao1955/kernel_build_action/pull/119) on [dabao1955/kernel_build_action](https://github.com/dabao1955/kernel_build_action)
 - [Update version to 1.1.0](https://github.com/erenitylabs/sentinel/pull/6) on [erenitylabs/sentinel](https://github.com/erenitylabs/sentinel)
-- [Release stable version](https://github.com/erenitylabs/sentinel/pull/1) on [erenitylabs/sentinel](https://github.com/erenitylabs/sentinel)
-- [Update Turkish translations](https://github.com/KernelSU-Next/KernelSU-Next/pull/162) on [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 #### ⭐ Recent Stars
 
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [PitchBlackRecoveryProject/android_device_xiaomi_garnet-pbrp](https://github.com/PitchBlackRecoveryProject/android_device_xiaomi_garnet-pbrp) - 
-- [LeavesMC/Leaves](https://github.com/LeavesMC/Leaves) - Fork of Paper aimed at repairing broken vanilla properties.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

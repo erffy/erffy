@@ -11,11 +11,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
-- [erffy-dots/fish](https://github.com/erffy-dots/fish) - My fish config
+- [erffy-dots/rofi](https://github.com/erffy-dots/rofi) - My rofi config
+- [erffy-dots/fastfetch](https://github.com/erffy-dots/fastfetch) - My fastfetch config
+- [erffy-dots/.generic](https://github.com/erffy-dots/.generic) - 
 - [erffy-dots/.github](https://github.com/erffy-dots/.github) - 
 - [erffy-dots/hyprland](https://github.com/erffy-dots/hyprland) - My hyprland config
-- [arrow-package-management/arrow](https://github.com/arrow-package-management/arrow) - arw source
-- [erffy/dockerffy](https://github.com/erffy/dockerffy) - Docker configuration I use for managing services on my server.
 #### 🌱 My latest projects
 
 - [erffy/dockerffy](https://github.com/erffy/dockerffy) - Docker configuration I use for managing services on my server.
@@ -32,11 +32,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [Update version to 1.1.0](https://github.com/erenitylabs/sentinel/pull/6) on [erenitylabs/sentinel](https://github.com/erenitylabs/sentinel)
 #### ⭐ Recent Stars
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+- [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Duckonaut/split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
-- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch targets low-spec systems. Written in Rust. It&#39;s very simple, designed so you can pick it up and replace it.
-- [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
-- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is Fast and Minimal. Written in Rust. It&#39;s very simple, designed so you can pick it up and replace it.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

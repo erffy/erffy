@@ -12,10 +12,10 @@ I love coding and listening to music. My goal is to become a software engineer a
 #### 👷 Check out what I'm currently working on
 
 - [erffy-dots/.generic](https://github.com/erffy-dots/.generic) - 
-- [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
+- [erffy-dots/.github](https://github.com/erffy-dots/.github) - 
+- [erffy-dots/fish](https://github.com/erffy-dots/fish) - My fish config
 - [erffy-dots/waybar](https://github.com/erffy-dots/waybar) - My waybar config
 - [erffy-dots/hyprland](https://github.com/erffy-dots/hyprland) - My hyprland config
-- [erffy-dots/fish](https://github.com/erffy-dots/fish) - My fish config
 #### 🌱 My latest projects
 
 - [erffy/dockerffy](https://github.com/erffy/dockerffy) - Docker configuration I use for managing services on my server.

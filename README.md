@@ -11,11 +11,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
+- [erffy-dots/fish](https://github.com/erffy-dots/fish) - My fish config
 - [erffy-dots/.generic](https://github.com/erffy-dots/.generic) - 
 - [erffy-dots/.github](https://github.com/erffy-dots/.github) - 
-- [erffy-dots/fish](https://github.com/erffy-dots/fish) - My fish config
+- [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 - [erffy-dots/waybar](https://github.com/erffy-dots/waybar) - My waybar config
-- [erffy-dots/hyprland](https://github.com/erffy-dots/hyprland) - My hyprland config
 #### 🌱 My latest projects
 
 - [erffy/dockerffy](https://github.com/erffy/dockerffy) - Docker configuration I use for managing services on my server.
@@ -32,11 +32,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [Update version to 1.1.0](https://github.com/erenitylabs/sentinel/pull/6) on [erenitylabs/sentinel](https://github.com/erenitylabs/sentinel)
 #### ⭐ Recent Stars
 
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux via DXVK/Vulkan
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [Duckonaut/split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

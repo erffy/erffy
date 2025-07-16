@@ -11,11 +11,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
+- [erffy-dots/gtk](https://github.com/erffy-dots/gtk) - My gtk config
+- [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Lightweight Waybar modules built with Zig
+- [erffy-dots/starship](https://github.com/erffy-dots/starship) - My starship config
 - [erffy-dots/hyprland](https://github.com/erffy-dots/hyprland) - My hyprland config
-- [erffy-dots/waybar](https://github.com/erffy-dots/waybar) - My waybar config
 - [erffy-dots/fish](https://github.com/erffy-dots/fish) - My fish config
-- [erffy-dots/.generic](https://github.com/erffy-dots/.generic) - 
-- [erffy-dots/.github](https://github.com/erffy-dots/.github) - 
 #### 🌱 My latest projects
 
 - [erffy/dockerffy](https://github.com/erffy/dockerffy) - Docker configuration I use for managing services on my server.
@@ -32,11 +32,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [Update version to 1.1.0](https://github.com/erenitylabs/sentinel/pull/6) on [erenitylabs/sentinel](https://github.com/erenitylabs/sentinel)
 #### ⭐ Recent Stars
 
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [AkberJag/portfolio-template](https://github.com/AkberJag/portfolio-template) - A fully customizable portfolio website template built using Vue.js and Tailwind CSS.
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
-- [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

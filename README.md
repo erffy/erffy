@@ -11,11 +11,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
+- [erffy-dots/.generic](https://github.com/erffy-dots/.generic) - 
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Lightweight Waybar modules built with Zig
-- [erffy-dots/gtk](https://github.com/erffy-dots/gtk) - My gtk config
-- [erffy-dots/starship](https://github.com/erffy-dots/starship) - My starship config
 - [erffy-dots/hyprland](https://github.com/erffy-dots/hyprland) - My hyprland config
-- [erffy-dots/fish](https://github.com/erffy-dots/fish) - My fish config
+- [erffy-dots/starship](https://github.com/erffy-dots/starship) - My starship config
+- [erffy-dots/waybar](https://github.com/erffy-dots/waybar) - My waybar config
 #### 🌱 My latest projects
 
 - [erffy/dockerffy](https://github.com/erffy/dockerffy) - Docker configuration I use for managing services on my server.

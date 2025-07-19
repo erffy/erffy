@@ -11,11 +11,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 
 #### 👷 Check out what I'm currently working on
 
-- [erffy-dots/.generic](https://github.com/erffy-dots/.generic) - 
+- [erffy-dots/waybar](https://github.com/erffy-dots/waybar) - My waybar config
 - [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ✨ Lightweight Waybar modules built with Zig
 - [erffy-dots/hyprland](https://github.com/erffy-dots/hyprland) - My hyprland config
 - [erffy-dots/starship](https://github.com/erffy-dots/starship) - My starship config
-- [erffy-dots/waybar](https://github.com/erffy-dots/waybar) - My waybar config
+- [erffy-dots/.generic](https://github.com/erffy-dots/.generic) - 
 #### 🌱 My latest projects
 
 - [erffy/dockerffy](https://github.com/erffy/dockerffy) - Docker configuration I use for managing services on my server.
@@ -32,11 +32,11 @@ I love coding and listening to music. My goal is to become a software engineer a
 - [Update version to 1.1.0](https://github.com/erenitylabs/sentinel/pull/6) on [erenitylabs/sentinel](https://github.com/erenitylabs/sentinel)
 #### ⭐ Recent Stars
 
+- [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-- [AkberJag/portfolio-template](https://github.com/AkberJag/portfolio-template) - A fully customizable portfolio website template built using Vue.js and Tailwind CSS.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13)](https://visitcount.itsvg.in)

@@ -107,14 +107,6 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/erffy/erffy/main/github-metrics.svg" alt="GitHub Metrics"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=erffy&icon=5&color=13" alt="Visitor Count"/>
-  </a>
 </p>

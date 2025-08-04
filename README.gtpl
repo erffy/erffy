@@ -21,13 +21,11 @@
 <h4 align="center">👷 Check out what I'm currently working on</h4>
 
 <div align="center">
-  <ol>
-  {{ range recentContributions 5 }}
+  <ol>{{ range recentContributions 5 }}
     <li>
-      <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a> – {{ .Repo.Description }}
+      <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a>
     </li>
-  {{- end }}
-  </ol>
+  {{- end }}</ol>
 </div>
 
 <br/>
@@ -35,12 +33,10 @@
 <h4 align="center">🌱 My Latest Projects</h4>
 
 <div align="center">
-  <ol>
-  {{ range recentRepos 5 }}
+  <ol>{{ range recentRepos 5 }}
     <li>
-      <a href="{{ .URL }}" target="_blank"><code>{{ .Name }}</code></a> – {{ .Description }}
-    </li>
-  {{- end }}
+      <a href="{{ .URL }}" target="_blank"><code>{{ .Name }}</code></a>
+    </li>{{- end }}
   </ol>
 </div>
 
@@ -49,13 +45,11 @@
 <h4 align="center">🔨 My Recent Pull Requests</h4>
 
 <div align="center">
-  <ol>
-  {{ range recentPullRequests 5 }}
+  <ol>{{ range recentPullRequests 5 }}
     <li>
       <a href="{{ .URL }}" target="_blank">{{ .Title }}</a> on
       <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a>
-    </li>
-  {{- end }}
+    </li>{{- end }}
   </ol>
 </div>
 
@@ -64,13 +58,11 @@
 <h4 align="center">⭐ Recent Stars</h4>
 
 <div align="center">
-  <ol>
-  {{ range recentStars 5 }}
+  <ol>{{ range recentStars 5 }}
     <li>
-      <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a> – {{ .Repo.Description }}
+      <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a>
     </li>
-  {{- end }}
-  </ol>
+  {{- end }}</ol>
 </div>
 
 ---

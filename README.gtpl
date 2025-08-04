@@ -21,7 +21,7 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>{{ range recentContributions 5 }}
   <li>
-    <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code> - {{ .Repo.Description }}</a>
+    <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a> - {{ .Repo.Description }}
   </li>{{- end }}
 </ol>
 
@@ -30,7 +30,7 @@
 <h4>🌱 My Latest Projects</h4>
 <ol>{{ range recentRepos 5 }}
   <li>
-    <a href="{{ .URL }}" target="_blank"><code>{{ .Name }}</code> - {{ .Description }}</a>
+    <a href="{{ .URL }}" target="_blank"><code>{{ .Name }}</code></a> - {{ .Description }}
   </li>{{- end }}
 </ol>
 
@@ -49,7 +49,7 @@
 <h4>⭐ Recent Stars</h4>
 <ol>{{ range recentStars 5 }}
   <li>
-    <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code> - {{ .Repo.Description }}</a>
+    <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a> - {{ .Repo.Description }}
   </li>{{- end }}
 </ol>
 

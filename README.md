@@ -22,23 +22,21 @@
 
 <div align="center">
   <ol>
-  
     <li>
-      <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> – ✨ Lightweight Waybar modules built with Zig
+      <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a>
     </li>
     <li>
-      <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> – 
+      <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a>
     </li>
     <li>
-      <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> – My hyprland config
+      <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a>
     </li>
     <li>
-      <a href="https://github.com/erffy-dots/fastfetch" target="_blank"><code>erffy-dots/fastfetch</code></a> – My fastfetch config
+      <a href="https://github.com/erffy-dots/fastfetch" target="_blank"><code>erffy-dots/fastfetch</code></a>
     </li>
     <li>
-      <a href="https://github.com/erffy-dots/nvim" target="_blank"><code>erffy-dots/nvim</code></a> – My nvim config
-    </li>
-  </ol>
+      <a href="https://github.com/erffy-dots/nvim" target="_blank"><code>erffy-dots/nvim</code></a>
+    </li></ol>
 </div>
 
 <br/>
@@ -47,21 +45,20 @@
 
 <div align="center">
   <ol>
-  
     <li>
-      <a href="https://github.com/erffy/stars" target="_blank"><code>erffy/stars</code></a> – 
+      <a href="https://github.com/erffy/stars" target="_blank"><code>erffy/stars</code></a>
     </li>
     <li>
-      <a href="https://github.com/erffy/chromium-web-store" target="_blank"><code>erffy/chromium-web-store</code></a> – Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
+      <a href="https://github.com/erffy/chromium-web-store" target="_blank"><code>erffy/chromium-web-store</code></a>
     </li>
     <li>
-      <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> – ✨ Lightweight Waybar modules built with Zig
+      <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a>
     </li>
     <li>
-      <a href="https://github.com/erffy/dots" target="_blank"><code>erffy/dots</code></a> – My system configuration files
+      <a href="https://github.com/erffy/dots" target="_blank"><code>erffy/dots</code></a>
     </li>
     <li>
-      <a href="https://github.com/erffy/erfevents" target="_blank"><code>erffy/erfevents</code></a> – A powerful EventEmitter module based on Map and Set.
+      <a href="https://github.com/erffy/erfevents" target="_blank"><code>erffy/erfevents</code></a>
     </li>
   </ol>
 </div>
@@ -72,7 +69,6 @@
 
 <div align="center">
   <ol>
-  
     <li>
       <a href="https://github.com/KernelSU-Next/KernelSU-Next/pull/598" target="_blank">docs: Update README_TR.md</a> on
       <a href="https://github.com/KernelSU-Next/KernelSU-Next" target="_blank"><code>KernelSU-Next/KernelSU-Next</code></a>
@@ -102,23 +98,21 @@
 
 <div align="center">
   <ol>
-  
     <li>
-      <a href="https://github.com/InioX/matugen" target="_blank"><code>InioX/matugen</code></a> – A material you color generation tool
+      <a href="https://github.com/InioX/matugen" target="_blank"><code>InioX/matugen</code></a>
     </li>
     <li>
-      <a href="https://github.com/Kernel-SU/ksuinit" target="_blank"><code>Kernel-SU/ksuinit</code></a> – 
+      <a href="https://github.com/Kernel-SU/ksuinit" target="_blank"><code>Kernel-SU/ksuinit</code></a>
     </li>
     <li>
-      <a href="https://github.com/bouquet2/water" target="_blank"><code>bouquet2/water</code></a> – 💧 Simple upgrade tool made for bouquet2 that manages Talos Linux and Kubernetes versions in a declarative manner.
+      <a href="https://github.com/bouquet2/water" target="_blank"><code>bouquet2/water</code></a>
     </li>
     <li>
-      <a href="https://github.com/CachyOS/New-Cli-Installer" target="_blank"><code>CachyOS/New-Cli-Installer</code></a> – CachyOS CLI Installer
+      <a href="https://github.com/CachyOS/New-Cli-Installer" target="_blank"><code>CachyOS/New-Cli-Installer</code></a>
     </li>
     <li>
-      <a href="https://github.com/CachyOS/CachyOS-Live-ISO" target="_blank"><code>CachyOS/CachyOS-Live-ISO</code></a> – 
-    </li>
-  </ol>
+      <a href="https://github.com/CachyOS/CachyOS-Live-ISO" target="_blank"><code>CachyOS/CachyOS-Live-ISO</code></a>
+    </li></ol>
 </div>
 
 ---

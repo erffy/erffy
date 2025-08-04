@@ -18,52 +18,40 @@
 
 ---
 
-<h4 align="center">👷 Check out what I'm currently working on</h4>
-
-<div align="center">
-  <ol>{{ range recentContributions 5 }}
-    <li>
-      <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a>
-    </li>
-  {{- end }}</ol>
-</div>
+<h4>👷 Check out what I'm currently working on</h4>
+<ol>{{ range recentContributions 5 }}
+  <li>
+    <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code> - {{ .Repo.Description }}</a>
+  </li>{{- end }}
+</ol>
 
 <br/>
 
-<h4 align="center">🌱 My Latest Projects</h4>
-
-<div align="center">
-  <ol>{{ range recentRepos 5 }}
-    <li>
-      <a href="{{ .URL }}" target="_blank"><code>{{ .Name }}</code></a>
-    </li>{{- end }}
-  </ol>
-</div>
+<h4>🌱 My Latest Projects</h4>
+<ol>{{ range recentRepos 5 }}
+  <li>
+    <a href="{{ .URL }}" target="_blank"><code>{{ .Name }}</code> - {{ .Description }}</a>
+  </li>{{- end }}
+</ol>
 
 <br/>
 
-<h4 align="center">🔨 My Recent Pull Requests</h4>
-
-<div align="center">
-  <ol>{{ range recentPullRequests 5 }}
-    <li>
-      <a href="{{ .URL }}" target="_blank">{{ .Title }}</a> on
-      <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a>
-    </li>{{- end }}
-  </ol>
-</div>
+<h4>🔨 My Recent Pull Requests</h4>
+<ol>{{ range recentPullRequests 5 }}
+  <li>
+    <a href="{{ .URL }}" target="_blank">{{ .Title }}</a> on
+    <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a>
+  </li>{{- end }}
+</ol>
 
 <br/>
 
-<h4 align="center">⭐ Recent Stars</h4>
-
-<div align="center">
-  <ol>{{ range recentStars 5 }}
-    <li>
-      <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a>
-    </li>
-  {{- end }}</ol>
-</div>
+<h4>⭐ Recent Stars</h4>
+<ol>{{ range recentStars 5 }}
+  <li>
+    <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code> - {{ .Repo.Description }}</a>
+  </li>{{- end }}
+</ol>
 
 ---
 

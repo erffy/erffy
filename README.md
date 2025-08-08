@@ -21,19 +21,19 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> - My hyprland config
+  </li>
+  <li>
+    <a href="https://github.com/erffy-dots/waybar" target="_blank"><code>erffy-dots/waybar</code></a> - My waybar config
+  </li>
+  <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ✨ Lightweight Waybar modules built with Zig
   </li>
   <li>
     <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
   </li>
   <li>
-    <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> - My hyprland config
-  </li>
-  <li>
     <a href="https://github.com/erffy-dots/fastfetch" target="_blank"><code>erffy-dots/fastfetch</code></a> - My fastfetch config
-  </li>
-  <li>
-    <a href="https://github.com/erffy-dots/nvim" target="_blank"><code>erffy-dots/nvim</code></a> - My nvim config
   </li>
 </ol>
 
@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/wwmm/easyeffects" target="_blank"><code>wwmm/easyeffects</code></a> - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
+  </li>
+  <li>
     <a href="https://github.com/InioX/matugen" target="_blank"><code>InioX/matugen</code></a> - A material you color generation tool
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/CachyOS/New-Cli-Installer" target="_blank"><code>CachyOS/New-Cli-Installer</code></a> - CachyOS CLI Installer
-  </li>
-  <li>
-    <a href="https://github.com/CachyOS/CachyOS-Live-ISO" target="_blank"><code>CachyOS/CachyOS-Live-ISO</code></a> - 
   </li>
 </ol>
 

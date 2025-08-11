@@ -24,6 +24,9 @@
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ✨ Lightweight Waybar modules built with Zig
   </li>
   <li>
+    <a href="https://github.com/erffylabs/sentinel" target="_blank"><code>erffylabs/sentinel</code></a> - Sentinel is an open-source Discord bot offering powerful moderation, utility, and economy features
+  </li>
+  <li>
     <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> - My hyprland config
   </li>
   <li>
@@ -31,9 +34,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
-  </li>
-  <li>
-    <a href="https://github.com/erffy-dots/fastfetch" target="_blank"><code>erffy-dots/fastfetch</code></a> - My fastfetch config
   </li>
 </ol>
 
@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/carbon-language/carbon-lang" target="_blank"><code>carbon-language/carbon-lang</code></a> - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+  </li>
+  <li>
     <a href="https://github.com/wwmm/easyeffects" target="_blank"><code>wwmm/easyeffects</code></a> - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/bouquet2/water" target="_blank"><code>bouquet2/water</code></a> - 💧 Simple upgrade tool made for bouquet2 that manages Talos Linux and Kubernetes versions in a declarative manner.
-  </li>
-  <li>
-    <a href="https://github.com/CachyOS/New-Cli-Installer" target="_blank"><code>CachyOS/New-Cli-Installer</code></a> - CachyOS CLI Installer
   </li>
 </ol>
 

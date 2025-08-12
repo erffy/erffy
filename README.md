@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/xeome/riscv-kernel" target="_blank"><code>xeome/riscv-kernel</code></a> - riscv toy kernel
+  </li>
+  <li>
     <a href="https://github.com/carbon-language/carbon-lang" target="_blank"><code>carbon-language/carbon-lang</code></a> - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/Kernel-SU/ksuinit" target="_blank"><code>Kernel-SU/ksuinit</code></a> - 
-  </li>
-  <li>
-    <a href="https://github.com/bouquet2/water" target="_blank"><code>bouquet2/water</code></a> - 💧 Simple upgrade tool made for bouquet2 that manages Talos Linux and Kubernetes versions in a declarative manner.
   </li>
 </ol>
 

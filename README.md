@@ -63,6 +63,10 @@
 <h4>🔨 My Recent Pull Requests</h4>
 <ol>
   <li>
+    <a href="https://github.com/erffy/zig-waybar-contrib/pull/2" target="_blank">[Feature] Add configuration support</a> on
+    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a>
+  </li>
+  <li>
     <a href="https://github.com/KernelSU-Next/KernelSU-Next/pull/598" target="_blank">docs: Update README_TR.md</a> on
     <a href="https://github.com/KernelSU-Next/KernelSU-Next" target="_blank"><code>KernelSU-Next/KernelSU-Next</code></a>
   </li>
@@ -77,10 +81,6 @@
   <li>
     <a href="https://github.com/dabao1955/kernel_build_action/pull/119" target="_blank">Make some improvements</a> on
     <a href="https://github.com/dabao1955/kernel_build_action" target="_blank"><code>dabao1955/kernel_build_action</code></a>
-  </li>
-  <li>
-    <a href="https://github.com/erffylabs/sentinel/pull/6" target="_blank">Update version to 1.1.0</a> on
-    <a href="https://github.com/erffylabs/sentinel" target="_blank"><code>erffylabs/sentinel</code></a>
   </li>
 </ol>
 

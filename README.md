@@ -21,6 +21,9 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/erffy/Archeon-Live-ISO" target="_blank"><code>erffy/Archeon-Live-ISO</code></a> - The liveiso I&#39;ve set up for myself, which I call Archeon.
+  </li>
+  <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ✨ Lightweight Waybar modules built with Zig
   </li>
   <li>
@@ -32,15 +35,15 @@
   <li>
     <a href="https://github.com/erffy-dots/waybar" target="_blank"><code>erffy-dots/waybar</code></a> - My waybar config
   </li>
-  <li>
-    <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
-  </li>
 </ol>
 
 <br/>
 
 <h4>🌱 My Latest Projects</h4>
 <ol>
+  <li>
+    <a href="https://github.com/erffy/Archeon-Live-ISO" target="_blank"><code>erffy/Archeon-Live-ISO</code></a> - The liveiso I&#39;ve set up for myself, which I call Archeon.
+  </li>
   <li>
     <a href="https://github.com/erffy/stars" target="_blank"><code>erffy/stars</code></a> - 
   </li>
@@ -52,9 +55,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy/dots" target="_blank"><code>erffy/dots</code></a> - My system configuration files
-  </li>
-  <li>
-    <a href="https://github.com/erffy/erfevents" target="_blank"><code>erffy/erfevents</code></a> - A powerful EventEmitter module based on Map and Set.
   </li>
 </ol>
 

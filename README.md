@@ -89,6 +89,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/rajnandan1/kener" target="_blank"><code>rajnandan1/kener</code></a> - Stunning status pages, batteries included!
+  </li>
+  <li>
+    <a href="https://github.com/ErikReider/SwayOSD" target="_blank"><code>ErikReider/SwayOSD</code></a> - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
+  </li>
+  <li>
     <a href="https://github.com/xeome/riscv-kernel" target="_blank"><code>xeome/riscv-kernel</code></a> - riscv toy kernel
   </li>
   <li>
@@ -96,12 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/wwmm/easyeffects" target="_blank"><code>wwmm/easyeffects</code></a> - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
-  </li>
-  <li>
-    <a href="https://github.com/InioX/matugen" target="_blank"><code>InioX/matugen</code></a> - A material you color generation tool
-  </li>
-  <li>
-    <a href="https://github.com/Kernel-SU/ksuinit" target="_blank"><code>Kernel-SU/ksuinit</code></a> - 
   </li>
 </ol>
 

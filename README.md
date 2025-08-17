@@ -89,6 +89,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/saivert/pwvucontrol" target="_blank"><code>saivert/pwvucontrol</code></a> - Pipewire Volume Control
+  </li>
+  <li>
+    <a href="https://github.com/CachyOS/linux-cachyos" target="_blank"><code>CachyOS/linux-cachyos</code></a> - Archlinux Kernel based on different schedulers and some other performance improvements.
+  </li>
+  <li>
     <a href="https://github.com/rajnandan1/kener" target="_blank"><code>rajnandan1/kener</code></a> - Stunning status pages, batteries included!
   </li>
   <li>
@@ -96,12 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/xeome/riscv-kernel" target="_blank"><code>xeome/riscv-kernel</code></a> - riscv toy kernel
-  </li>
-  <li>
-    <a href="https://github.com/carbon-language/carbon-lang" target="_blank"><code>carbon-language/carbon-lang</code></a> - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-  </li>
-  <li>
-    <a href="https://github.com/wwmm/easyeffects" target="_blank"><code>wwmm/easyeffects</code></a> - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
   </li>
 </ol>
 

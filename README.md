@@ -21,7 +21,7 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
-    <a href="https://github.com/erffy/Archeon-Live-ISO" target="_blank"><code>erffy/Archeon-Live-ISO</code></a> - The liveiso I&#39;ve set up for myself, which I call Archeon.
+    <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
   </li>
   <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ✨ Lightweight Waybar modules built with Zig
@@ -42,9 +42,6 @@
 <h4>🌱 My Latest Projects</h4>
 <ol>
   <li>
-    <a href="https://github.com/erffy/Archeon-Live-ISO" target="_blank"><code>erffy/Archeon-Live-ISO</code></a> - The liveiso I&#39;ve set up for myself, which I call Archeon.
-  </li>
-  <li>
     <a href="https://github.com/erffy/stars" target="_blank"><code>erffy/stars</code></a> - 
   </li>
   <li>
@@ -55,6 +52,9 @@
   </li>
   <li>
     <a href="https://github.com/erffy/dots" target="_blank"><code>erffy/dots</code></a> - My system configuration files
+  </li>
+  <li>
+    <a href="https://github.com/erffy/erfevents" target="_blank"><code>erffy/erfevents</code></a> - A powerful EventEmitter module based on Map and Set.
   </li>
 </ol>
 
@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
+  </li>
+  <li>
     <a href="https://github.com/saivert/pwvucontrol" target="_blank"><code>saivert/pwvucontrol</code></a> - Pipewire Volume Control
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/ErikReider/SwayOSD" target="_blank"><code>ErikReider/SwayOSD</code></a> - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
-  </li>
-  <li>
-    <a href="https://github.com/xeome/riscv-kernel" target="_blank"><code>xeome/riscv-kernel</code></a> - riscv toy kernel
   </li>
 </ol>
 

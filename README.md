@@ -89,6 +89,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/systemd/zram-generator" target="_blank"><code>systemd/zram-generator</code></a> - Systemd unit generator for zram devices
+  </li>
+  <li>
+    <a href="https://github.com/swaywm/sway" target="_blank"><code>swaywm/sway</code></a> - i3-compatible Wayland compositor
+  </li>
+  <li>
     <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
   </li>
   <li>
@@ -96,12 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/CachyOS/linux-cachyos" target="_blank"><code>CachyOS/linux-cachyos</code></a> - Archlinux Kernel based on different schedulers and some other performance improvements.
-  </li>
-  <li>
-    <a href="https://github.com/rajnandan1/kener" target="_blank"><code>rajnandan1/kener</code></a> - Stunning status pages, batteries included!
-  </li>
-  <li>
-    <a href="https://github.com/ErikReider/SwayOSD" target="_blank"><code>ErikReider/SwayOSD</code></a> - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
   </li>
 </ol>
 

@@ -24,6 +24,9 @@
     <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
   </li>
   <li>
+    <a href="https://github.com/ArcheonOS/archeoninstall" target="_blank"><code>ArcheonOS/archeoninstall</code></a> - Simple archeon installer script written by Bash
+  </li>
+  <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ✨ Lightweight Waybar modules built with Zig
   </li>
   <li>
@@ -31,9 +34,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> - My hyprland config
-  </li>
-  <li>
-    <a href="https://github.com/erffy-dots/waybar" target="_blank"><code>erffy-dots/waybar</code></a> - My waybar config
   </li>
 </ol>
 
@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/charmbracelet/gum" target="_blank"><code>charmbracelet/gum</code></a> - A tool for glamorous shell scripts 🎀
+  </li>
+  <li>
     <a href="https://github.com/systemd/zram-generator" target="_blank"><code>systemd/zram-generator</code></a> - Systemd unit generator for zram devices
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/saivert/pwvucontrol" target="_blank"><code>saivert/pwvucontrol</code></a> - Pipewire Volume Control
-  </li>
-  <li>
-    <a href="https://github.com/CachyOS/linux-cachyos" target="_blank"><code>CachyOS/linux-cachyos</code></a> - Archlinux Kernel based on different schedulers and some other performance improvements.
   </li>
 </ol>
 

@@ -21,10 +21,13 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
-    <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
+    <a href="https://github.com/erffy/ReVanced-Magisk" target="_blank"><code>erffy/ReVanced-Magisk</code></a> - 
   </li>
   <li>
     <a href="https://github.com/ArcheonOS/archeoninstall" target="_blank"><code>ArcheonOS/archeoninstall</code></a> - Simple archeon installer script written by Bash
+  </li>
+  <li>
+    <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
   </li>
   <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ✨ Lightweight Waybar modules built with Zig
@@ -32,15 +35,15 @@
   <li>
     <a href="https://github.com/erffylabs/sentinel" target="_blank"><code>erffylabs/sentinel</code></a> - Sentinel is an open-source Discord bot offering powerful moderation, utility, and economy features
   </li>
-  <li>
-    <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> - My hyprland config
-  </li>
 </ol>
 
 <br/>
 
 <h4>🌱 My Latest Projects</h4>
 <ol>
+  <li>
+    <a href="https://github.com/erffy/ReVanced-Magisk" target="_blank"><code>erffy/ReVanced-Magisk</code></a> - 
+  </li>
   <li>
     <a href="https://github.com/erffy/stars" target="_blank"><code>erffy/stars</code></a> - 
   </li>
@@ -52,9 +55,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy/dots" target="_blank"><code>erffy/dots</code></a> - My system configuration files
-  </li>
-  <li>
-    <a href="https://github.com/erffy/erfevents" target="_blank"><code>erffy/erfevents</code></a> - A powerful EventEmitter module based on Map and Set.
   </li>
 </ol>
 
@@ -89,6 +89,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/ReVanced/revanced-patches" target="_blank"><code>ReVanced/revanced-patches</code></a> - 🧩 Patches for ReVanced
+  </li>
+  <li>
+    <a href="https://github.com/ArcheonOS/archeoninstall" target="_blank"><code>ArcheonOS/archeoninstall</code></a> - Simple archeon installer script written by Bash
+  </li>
+  <li>
     <a href="https://github.com/charmbracelet/gum" target="_blank"><code>charmbracelet/gum</code></a> - A tool for glamorous shell scripts 🎀
   </li>
   <li>
@@ -96,12 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/swaywm/sway" target="_blank"><code>swaywm/sway</code></a> - i3-compatible Wayland compositor
-  </li>
-  <li>
-    <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
-  </li>
-  <li>
-    <a href="https://github.com/saivert/pwvucontrol" target="_blank"><code>saivert/pwvucontrol</code></a> - Pipewire Volume Control
   </li>
 </ol>
 

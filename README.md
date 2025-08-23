@@ -21,7 +21,7 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
-    <a href="https://github.com/erffy-dots/waybar" target="_blank"><code>erffy-dots/waybar</code></a> - My waybar config
+    <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
   </li>
   <li>
     <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> - My hyprland config
@@ -30,10 +30,10 @@
     <a href="https://github.com/erffy/ReVanced-Magisk" target="_blank"><code>erffy/ReVanced-Magisk</code></a> - 
   </li>
   <li>
-    <a href="https://github.com/ArcheonOS/archeoninstall" target="_blank"><code>ArcheonOS/archeoninstall</code></a> - Simple archeon installer script written by Bash
+    <a href="https://github.com/erffy-dots/waybar" target="_blank"><code>erffy-dots/waybar</code></a> - My waybar config
   </li>
   <li>
-    <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
+    <a href="https://github.com/ArcheonOS/archeoninstall" target="_blank"><code>ArcheonOS/archeoninstall</code></a> - Simple archeon installer script written by Bash
   </li>
 </ol>
 

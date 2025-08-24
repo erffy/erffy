@@ -21,6 +21,9 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ✨ Lightweight Waybar modules built with Zig
+  </li>
+  <li>
     <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
   </li>
   <li>
@@ -31,9 +34,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy-dots/waybar" target="_blank"><code>erffy-dots/waybar</code></a> - My waybar config
-  </li>
-  <li>
-    <a href="https://github.com/ArcheonOS/archeoninstall" target="_blank"><code>ArcheonOS/archeoninstall</code></a> - Simple archeon installer script written by Bash
   </li>
 </ol>
 
@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/videolan/vlc" target="_blank"><code>videolan/vlc</code></a> - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
+  </li>
+  <li>
     <a href="https://github.com/yashgorana/chrome-debloat" target="_blank"><code>yashgorana/chrome-debloat</code></a> - Browser policies to debloat Chrome/Chromium browsers
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/charmbracelet/gum" target="_blank"><code>charmbracelet/gum</code></a> - A tool for glamorous shell scripts 🎀
-  </li>
-  <li>
-    <a href="https://github.com/systemd/zram-generator" target="_blank"><code>systemd/zram-generator</code></a> - Systemd unit generator for zram devices
   </li>
 </ol>
 

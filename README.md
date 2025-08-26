@@ -89,6 +89,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/0xERR0R/blocky" target="_blank"><code>0xERR0R/blocky</code></a> - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+  </li>
+  <li>
+    <a href="https://github.com/nicholas-fedor/watchtower" target="_blank"><code>nicholas-fedor/watchtower</code></a> - Automate Docker container image updates
+  </li>
+  <li>
     <a href="https://github.com/videolan/vlc" target="_blank"><code>videolan/vlc</code></a> - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
   </li>
   <li>
@@ -96,12 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/ReVanced/revanced-patches" target="_blank"><code>ReVanced/revanced-patches</code></a> - 🧩 Patches for ReVanced
-  </li>
-  <li>
-    <a href="https://github.com/ArcheonOS/archeoninstall" target="_blank"><code>ArcheonOS/archeoninstall</code></a> - Simple archeon installer script written by Bash
-  </li>
-  <li>
-    <a href="https://github.com/charmbracelet/gum" target="_blank"><code>charmbracelet/gum</code></a> - A tool for glamorous shell scripts 🎀
   </li>
 </ol>
 

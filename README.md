@@ -30,10 +30,10 @@
     <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
   </li>
   <li>
-    <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> - My hyprland config
+    <a href="https://github.com/erffy-dots/waybar" target="_blank"><code>erffy-dots/waybar</code></a> - My waybar config
   </li>
   <li>
-    <a href="https://github.com/erffy/ReVanced-Magisk" target="_blank"><code>erffy/ReVanced-Magisk</code></a> - 
+    <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> - My hyprland config
   </li>
 </ol>
 
@@ -41,9 +41,6 @@
 
 <h4>🌱 My Latest Projects</h4>
 <ol>
-  <li>
-    <a href="https://github.com/erffy/ReVanced-Magisk" target="_blank"><code>erffy/ReVanced-Magisk</code></a> - 
-  </li>
   <li>
     <a href="https://github.com/erffy/stars" target="_blank"><code>erffy/stars</code></a> - 
   </li>
@@ -55,6 +52,9 @@
   </li>
   <li>
     <a href="https://github.com/erffy/dots" target="_blank"><code>erffy/dots</code></a> - My system configuration files
+  </li>
+  <li>
+    <a href="https://github.com/erffy/erfevents" target="_blank"><code>erffy/erfevents</code></a> - A powerful EventEmitter module based on Map and Set.
   </li>
 </ol>
 

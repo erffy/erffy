@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/Antiz96/arch-update" target="_blank"><code>Antiz96/arch-update</code></a> - An update notifier &amp; applier for Arch Linux with a systray applet that assists you with important pre / post update tasks.
+  </li>
+  <li>
     <a href="https://github.com/0xERR0R/blocky" target="_blank"><code>0xERR0R/blocky</code></a> - Fast and lightweight DNS proxy as ad-blocker for local network with many features
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/yashgorana/chrome-debloat" target="_blank"><code>yashgorana/chrome-debloat</code></a> - Browser policies to debloat Chrome/Chromium browsers
-  </li>
-  <li>
-    <a href="https://github.com/ReVanced/revanced-patches" target="_blank"><code>ReVanced/revanced-patches</code></a> - 🧩 Patches for ReVanced
   </li>
 </ol>
 

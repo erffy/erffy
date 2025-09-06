@@ -21,6 +21,9 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
+  </li>
+  <li>
     <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
   </li>
   <li>
@@ -28,9 +31,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ✨ Lightweight Waybar modules built with Zig
-  </li>
-  <li>
-    <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
   </li>
   <li>
     <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> - My hyprland config
@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/giantpinkrobots/varia" target="_blank"><code>giantpinkrobots/varia</code></a> - Download manager that supports regular downloads, torrents and videos
+  </li>
+  <li>
     <a href="https://github.com/Antiz96/arch-update" target="_blank"><code>Antiz96/arch-update</code></a> - An update notifier &amp; applier for Arch Linux with a systray applet that assists you with important pre / post update tasks.
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/videolan/vlc" target="_blank"><code>videolan/vlc</code></a> - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
-  </li>
-  <li>
-    <a href="https://github.com/yashgorana/chrome-debloat" target="_blank"><code>yashgorana/chrome-debloat</code></a> - Debloat your Chrome, Brave, Edge, Chromium browsing experience
   </li>
 </ol>
 

@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/n8n-io/n8n" target="_blank"><code>n8n-io/n8n</code></a> - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
+  </li>
+  <li>
     <a href="https://github.com/remittor/zapret-openwrt" target="_blank"><code>remittor/zapret-openwrt</code></a> - OpenWrt packages of https://github.com/bol-van/zapret
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/giantpinkrobots/varia" target="_blank"><code>giantpinkrobots/varia</code></a> - Download manager that supports regular downloads, torrents and videos
-  </li>
-  <li>
-    <a href="https://github.com/Antiz96/arch-update" target="_blank"><code>Antiz96/arch-update</code></a> - An update notifier &amp; applier for Arch Linux with a systray applet that assists you with important pre / post update tasks.
   </li>
 </ol>
 

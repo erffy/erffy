@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/DesignLipsx/WinUI-3-Apps-List" target="_blank"><code>DesignLipsx/WinUI-3-Apps-List</code></a> - A curated collection of over 420&#43; apps that embrace the WinUI 3 Design
+  </li>
+  <li>
     <a href="https://github.com/n8n-io/n8n" target="_blank"><code>n8n-io/n8n</code></a> - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/MuntashirAkon/AppManager" target="_blank"><code>MuntashirAkon/AppManager</code></a> - A full-featured package manager and viewer for Android
-  </li>
-  <li>
-    <a href="https://github.com/giantpinkrobots/varia" target="_blank"><code>giantpinkrobots/varia</code></a> - Download manager that supports regular downloads, torrents and videos
   </li>
 </ol>
 

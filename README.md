@@ -89,6 +89,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/ntdevlabs/nano11" target="_blank"><code>ntdevlabs/nano11</code></a> - Script to build possibly the most trimmed-down Windows 11 experience.
+  </li>
+  <li>
+    <a href="https://github.com/ntdevlabs/tiny11builder" target="_blank"><code>ntdevlabs/tiny11builder</code></a> - Scripts to build a trimmed-down Windows 11 image.
+  </li>
+  <li>
     <a href="https://github.com/DesignLipsx/WinUI-3-Apps-List" target="_blank"><code>DesignLipsx/WinUI-3-Apps-List</code></a> - A curated collection of over 420&#43; apps that embrace the WinUI 3 Design
   </li>
   <li>
@@ -96,12 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/remittor/zapret-openwrt" target="_blank"><code>remittor/zapret-openwrt</code></a> - OpenWrt packages of https://github.com/bol-van/zapret
-  </li>
-  <li>
-    <a href="https://github.com/hamphh/dockge" target="_blank"><code>hamphh/dockge</code></a> - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-  </li>
-  <li>
-    <a href="https://github.com/MuntashirAkon/AppManager" target="_blank"><code>MuntashirAkon/AppManager</code></a> - A full-featured package manager and viewer for Android
   </li>
 </ol>
 

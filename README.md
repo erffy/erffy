@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/IsmaelMartinez/teams-for-linux" target="_blank"><code>IsmaelMartinez/teams-for-linux</code></a> - Unofficial Microsoft Teams for Linux client
+  </li>
+  <li>
     <a href="https://github.com/ntdevlabs/nano11" target="_blank"><code>ntdevlabs/nano11</code></a> - Script to build possibly the most trimmed-down Windows 11 experience.
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/n8n-io/n8n" target="_blank"><code>n8n-io/n8n</code></a> - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
-  </li>
-  <li>
-    <a href="https://github.com/remittor/zapret-openwrt" target="_blank"><code>remittor/zapret-openwrt</code></a> - OpenWrt packages of https://github.com/bol-van/zapret
   </li>
 </ol>
 

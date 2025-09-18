@@ -21,6 +21,9 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/erffy-dots/fish" target="_blank"><code>erffy-dots/fish</code></a> - My fish config
+  </li>
+  <li>
     <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
   </li>
   <li>
@@ -31,9 +34,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ✨ Lightweight Waybar modules built with Zig
-  </li>
-  <li>
-    <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> - My hyprland config
   </li>
 </ol>
 
@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/honojs/hono" target="_blank"><code>honojs/hono</code></a> - Web framework built on Web Standards
+  </li>
+  <li>
     <a href="https://github.com/IsmaelMartinez/teams-for-linux" target="_blank"><code>IsmaelMartinez/teams-for-linux</code></a> - Unofficial Microsoft Teams for Linux client
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/DesignLipsx/WinUI-3-Apps-List" target="_blank"><code>DesignLipsx/WinUI-3-Apps-List</code></a> - A curated collection of over 420&#43; apps that embrace the WinUI 3 Design
-  </li>
-  <li>
-    <a href="https://github.com/n8n-io/n8n" target="_blank"><code>n8n-io/n8n</code></a> - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
   </li>
 </ol>
 

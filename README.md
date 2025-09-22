@@ -24,10 +24,10 @@
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ✨ Lightweight Waybar modules built with Zig
   </li>
   <li>
-    <a href="https://github.com/erffy-dots/fish" target="_blank"><code>erffy-dots/fish</code></a> - My fish config
+    <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
   </li>
   <li>
-    <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
+    <a href="https://github.com/erffy-dots/fish" target="_blank"><code>erffy-dots/fish</code></a> - My fish config
   </li>
   <li>
     <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/mozilla-firefox/firefox" target="_blank"><code>mozilla-firefox/firefox</code></a> - The official repository of Mozilla&#39;s Firefox web browser.
+  </li>
+  <li>
     <a href="https://github.com/honojs/hono" target="_blank"><code>honojs/hono</code></a> - Web framework built on Web Standards
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/ntdevlabs/tiny11builder" target="_blank"><code>ntdevlabs/tiny11builder</code></a> - Scripts to build a trimmed-down Windows 11 image.
-  </li>
-  <li>
-    <a href="https://github.com/DesignLipsx/WinUI-3-Apps-List" target="_blank"><code>DesignLipsx/WinUI-3-Apps-List</code></a> - A curated collection of over 420&#43; apps that embrace the WinUI 3 Design
   </li>
 </ol>
 

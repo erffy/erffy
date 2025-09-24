@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/edelvarden/material-fox-updated" target="_blank"><code>edelvarden/material-fox-updated</code></a> - 🦊 Firefox user CSS theme looks similar to Chrome
+  </li>
+  <li>
     <a href="https://github.com/mozilla-firefox/firefox" target="_blank"><code>mozilla-firefox/firefox</code></a> - The official repository of Mozilla&#39;s Firefox web browser.
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/ntdevlabs/nano11" target="_blank"><code>ntdevlabs/nano11</code></a> - Script to build possibly the most trimmed-down Windows 11 experience.
-  </li>
-  <li>
-    <a href="https://github.com/ntdevlabs/tiny11builder" target="_blank"><code>ntdevlabs/tiny11builder</code></a> - Scripts to build a trimmed-down Windows 11 image.
   </li>
 </ol>
 

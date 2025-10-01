@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/imputnet/helium" target="_blank"><code>imputnet/helium</code></a> - Private, fast, and honest web browser
+  </li>
+  <li>
     <a href="https://github.com/edelvarden/material-fox-updated" target="_blank"><code>edelvarden/material-fox-updated</code></a> - 🦊 Firefox user CSS theme looks similar to Chrome
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/IsmaelMartinez/teams-for-linux" target="_blank"><code>IsmaelMartinez/teams-for-linux</code></a> - Unofficial Microsoft Teams for Linux client
-  </li>
-  <li>
-    <a href="https://github.com/ntdevlabs/nano11" target="_blank"><code>ntdevlabs/nano11</code></a> - Script to build possibly the most trimmed-down Windows 11 experience.
   </li>
 </ol>
 

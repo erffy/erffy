@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/xeome/portfolio" target="_blank"><code>xeome/portfolio</code></a> - 
+  </li>
+  <li>
     <a href="https://github.com/imputnet/helium" target="_blank"><code>imputnet/helium</code></a> - Private, fast, and honest web browser
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/honojs/hono" target="_blank"><code>honojs/hono</code></a> - Web framework built on Web Standards
-  </li>
-  <li>
-    <a href="https://github.com/IsmaelMartinez/teams-for-linux" target="_blank"><code>IsmaelMartinez/teams-for-linux</code></a> - Unofficial Microsoft Teams for Linux client
   </li>
 </ol>
 

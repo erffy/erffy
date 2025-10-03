@@ -21,6 +21,12 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/erffy/zilverfetch" target="_blank"><code>erffy/zilverfetch</code></a> - [WIP] Unleash Zig’s power to fetch your system info at lightning speed. 
+  </li>
+  <li>
+    <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
+  </li>
+  <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ✨ Lightweight Waybar modules built with Zig
   </li>
   <li>
@@ -29,18 +35,15 @@
   <li>
     <a href="https://github.com/erffy-dots/fish" target="_blank"><code>erffy-dots/fish</code></a> - My fish config
   </li>
-  <li>
-    <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
-  </li>
-  <li>
-    <a href="https://github.com/erffy-dots/.github" target="_blank"><code>erffy-dots/.github</code></a> - 
-  </li>
 </ol>
 
 <br/>
 
 <h4>🌱 My Latest Projects</h4>
 <ol>
+  <li>
+    <a href="https://github.com/erffy/zilverfetch" target="_blank"><code>erffy/zilverfetch</code></a> - [WIP] Unleash Zig’s power to fetch your system info at lightning speed. 
+  </li>
   <li>
     <a href="https://github.com/erffy/stars" target="_blank"><code>erffy/stars</code></a> - 
   </li>
@@ -52,9 +55,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy/dots" target="_blank"><code>erffy/dots</code></a> - My system configuration files
-  </li>
-  <li>
-    <a href="https://github.com/erffy/erfevents" target="_blank"><code>erffy/erfevents</code></a> - A powerful EventEmitter module based on Map and Set.
   </li>
 </ol>
 

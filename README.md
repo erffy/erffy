@@ -21,13 +21,13 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ✨ Lightweight Waybar modules built with Zig
+  </li>
+  <li>
     <a href="https://github.com/erffy/zilverfetch" target="_blank"><code>erffy/zilverfetch</code></a> - [WIP] Unleash Zig’s power to fetch your system info at lightning speed. 
   </li>
   <li>
     <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
-  </li>
-  <li>
-    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ✨ Lightweight Waybar modules built with Zig
   </li>
   <li>
     <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
@@ -89,6 +89,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/mepley1/disk-usage-waybar" target="_blank"><code>mepley1/disk-usage-waybar</code></a> - A storage monitoring Waybar module. Summarizes disk usage for each mounted fs.
+  </li>
+  <li>
+    <a href="https://github.com/TibixDev/winboat" target="_blank"><code>TibixDev/winboat</code></a> - Run Windows apps on 🐧 Linux with ✨ seamless integration
+  </li>
+  <li>
     <a href="https://github.com/xeome/portfolio" target="_blank"><code>xeome/portfolio</code></a> - 
   </li>
   <li>
@@ -96,12 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/edelvarden/material-fox-updated" target="_blank"><code>edelvarden/material-fox-updated</code></a> - 🦊 Firefox user CSS theme looks similar to Chrome
-  </li>
-  <li>
-    <a href="https://github.com/mozilla-firefox/firefox" target="_blank"><code>mozilla-firefox/firefox</code></a> - The official repository of Mozilla&#39;s Firefox web browser.
-  </li>
-  <li>
-    <a href="https://github.com/honojs/hono" target="_blank"><code>honojs/hono</code></a> - Web framework built on Web Standards
   </li>
 </ol>
 

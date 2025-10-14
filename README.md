@@ -89,6 +89,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/Zigistry/Zigistry" target="_blank"><code>Zigistry/Zigistry</code></a> - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
+  </li>
+  <li>
+    <a href="https://github.com/lihenggui/blocker" target="_blank"><code>lihenggui/blocker</code></a> - Utilize an integrated firewall to manage application components.
+  </li>
+  <li>
     <a href="https://github.com/mepley1/disk-usage-waybar" target="_blank"><code>mepley1/disk-usage-waybar</code></a> - A storage monitoring Waybar module. Summarizes disk usage for each mounted fs.
   </li>
   <li>
@@ -96,12 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/xeome/portfolio" target="_blank"><code>xeome/portfolio</code></a> - 
-  </li>
-  <li>
-    <a href="https://github.com/imputnet/helium" target="_blank"><code>imputnet/helium</code></a> - Private, fast, and honest web browser
-  </li>
-  <li>
-    <a href="https://github.com/edelvarden/material-fox-updated" target="_blank"><code>edelvarden/material-fox-updated</code></a> - 🦊 Firefox user CSS theme looks similar to Chrome
   </li>
 </ol>
 

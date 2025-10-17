@@ -101,7 +101,7 @@
     <a href="https://github.com/TibixDev/winboat" target="_blank"><code>TibixDev/winboat</code></a> - Run Windows apps on 🐧 Linux with ✨ seamless integration
   </li>
   <li>
-    <a href="https://github.com/xeome/portfolio" target="_blank"><code>xeome/portfolio</code></a> - 
+    <a href="https://github.com/imputnet/helium" target="_blank"><code>imputnet/helium</code></a> - Private, fast, and honest web browser
   </li>
 </ol>
 

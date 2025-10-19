@@ -24,6 +24,9 @@
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
+    <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> - My hyprland config
+  </li>
+  <li>
     <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
   </li>
   <li>
@@ -31,9 +34,6 @@
   </li>
   <li>
     <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
-  </li>
-  <li>
-    <a href="https://github.com/erffy-dots/fish" target="_blank"><code>erffy-dots/fish</code></a> - My fish config
   </li>
 </ol>
 

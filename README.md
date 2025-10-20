@@ -21,19 +21,19 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/erffy-dots/fish" target="_blank"><code>erffy-dots/fish</code></a> - My fish config
+  </li>
+  <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
     <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> - My hyprland config
   </li>
   <li>
-    <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
+    <a href="https://github.com/erffy-dots/qt6ct" target="_blank"><code>erffy-dots/qt6ct</code></a> - My qt6ct config
   </li>
   <li>
-    <a href="https://github.com/erffy/zilverfetch" target="_blank"><code>erffy/zilverfetch</code></a> - [WIP] Unleash Zig’s power to fetch your system info at lightning speed. 
-  </li>
-  <li>
-    <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
+    <a href="https://github.com/erffy-dots/waybar" target="_blank"><code>erffy-dots/waybar</code></a> - My waybar config
   </li>
 </ol>
 

@@ -21,10 +21,10 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
-    <a href="https://github.com/erffy-dots/fish" target="_blank"><code>erffy-dots/fish</code></a> - My fish config
+    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
-    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
+    <a href="https://github.com/erffy-dots/fish" target="_blank"><code>erffy-dots/fish</code></a> - My fish config
   </li>
   <li>
     <a href="https://github.com/erffy-dots/waybar" target="_blank"><code>erffy-dots/waybar</code></a> - My waybar config
@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/KRTirtho/spotube" target="_blank"><code>KRTirtho/spotube</code></a> - 🎧 Open source music client! Available for both desktop &amp; mobile!
+  </li>
+  <li>
     <a href="https://github.com/Zigistry/Zigistry" target="_blank"><code>Zigistry/Zigistry</code></a> - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/TibixDev/winboat" target="_blank"><code>TibixDev/winboat</code></a> - Run Windows apps on 🐧 Linux with ✨ seamless integration
-  </li>
-  <li>
-    <a href="https://github.com/imputnet/helium" target="_blank"><code>imputnet/helium</code></a> - Private, fast, and honest web browser
   </li>
 </ol>
 

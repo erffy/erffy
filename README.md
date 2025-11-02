@@ -21,19 +21,19 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
+  </li>
+  <li>
+    <a href="https://github.com/erffy/xlsx-file-migrator" target="_blank"><code>erffy/xlsx-file-migrator</code></a> - 
+  </li>
+  <li>
     <a href="https://github.com/ArcheonOS/liveiso" target="_blank"><code>ArcheonOS/liveiso</code></a> - Archeon Live ISO
   </li>
   <li>
     <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
   </li>
   <li>
-    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
-  </li>
-  <li>
     <a href="https://github.com/erffy-dots/fish" target="_blank"><code>erffy-dots/fish</code></a> - My fish config
-  </li>
-  <li>
-    <a href="https://github.com/erffy-dots/hyprland" target="_blank"><code>erffy-dots/hyprland</code></a> - My hyprland config
   </li>
 </ol>
 
@@ -41,6 +41,9 @@
 
 <h4>🌱 My Latest Projects</h4>
 <ol>
+  <li>
+    <a href="https://github.com/erffy/xlsx-file-migrator" target="_blank"><code>erffy/xlsx-file-migrator</code></a> - 
+  </li>
   <li>
     <a href="https://github.com/erffy/zilverfetch" target="_blank"><code>erffy/zilverfetch</code></a> - [WIP] Unleash Zig’s power to fetch your system info at lightning speed. 
   </li>
@@ -52,9 +55,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
-  </li>
-  <li>
-    <a href="https://github.com/erffy/dots" target="_blank"><code>erffy/dots</code></a> - My system configuration files
   </li>
 </ol>
 
@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/Dokploy/dokploy" target="_blank"><code>Dokploy/dokploy</code></a> - Open Source Alternative to Vercel, Netlify and Heroku.
+  </li>
+  <li>
     <a href="https://github.com/KRTirtho/spotube" target="_blank"><code>KRTirtho/spotube</code></a> - 🎧 Open source music client! Available for both desktop &amp; mobile!
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/mepley1/disk-usage-waybar" target="_blank"><code>mepley1/disk-usage-waybar</code></a> - A storage monitoring Waybar module. Summarizes disk usage for each mounted fs.
-  </li>
-  <li>
-    <a href="https://github.com/TibixDev/winboat" target="_blank"><code>TibixDev/winboat</code></a> - Run Windows apps on 🐧 Linux with ✨ seamless integration
   </li>
 </ol>
 

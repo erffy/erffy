@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/yusufipk/AndroidAcikKalsin" target="_blank"><code>yusufipk/AndroidAcikKalsin</code></a> - 
+  </li>
+  <li>
     <a href="https://github.com/Dokploy/dokploy" target="_blank"><code>Dokploy/dokploy</code></a> - Open Source Alternative to Vercel, Netlify and Heroku.
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/lihenggui/blocker" target="_blank"><code>lihenggui/blocker</code></a> - Utilize an integrated firewall to manage application components.
-  </li>
-  <li>
-    <a href="https://github.com/mepley1/disk-usage-waybar" target="_blank"><code>mepley1/disk-usage-waybar</code></a> - A storage monitoring Waybar module. Summarizes disk usage for each mounted fs.
   </li>
 </ol>
 

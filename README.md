@@ -21,6 +21,9 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/CachyOS/wiki" target="_blank"><code>CachyOS/wiki</code></a> - Wiki for CachyOS
+  </li>
+  <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
@@ -31,9 +34,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
-  </li>
-  <li>
-    <a href="https://github.com/erffy-dots/fish" target="_blank"><code>erffy-dots/fish</code></a> - My fish config
   </li>
 </ol>
 
@@ -63,6 +63,10 @@
 <h4>🔨 My Recent Pull Requests</h4>
 <ol>
   <li>
+    <a href="https://github.com/CachyOS/wiki/pull/242" target="_blank">docs: hw-acc: add RX 550</a> on
+    <a href="https://github.com/CachyOS/wiki" target="_blank"><code>CachyOS/wiki</code></a>
+  </li>
+  <li>
     <a href="https://github.com/erffy/zig-waybar-contrib/pull/2" target="_blank">[Feature] Add configuration support</a> on
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a>
   </li>
@@ -77,10 +81,6 @@
   <li>
     <a href="https://github.com/KernelSU-Next/KernelSU-Next/pull/562" target="_blank">Improve README</a> on
     <a href="https://github.com/KernelSU-Next/KernelSU-Next" target="_blank"><code>KernelSU-Next/KernelSU-Next</code></a>
-  </li>
-  <li>
-    <a href="https://github.com/dabao1955/kernel_build_action/pull/119" target="_blank">Make some improvements</a> on
-    <a href="https://github.com/dabao1955/kernel_build_action" target="_blank"><code>dabao1955/kernel_build_action</code></a>
   </li>
 </ol>
 

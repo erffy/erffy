@@ -21,10 +21,10 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
-    <a href="https://github.com/CachyOS/wiki" target="_blank"><code>CachyOS/wiki</code></a> - Wiki for CachyOS
+    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
-    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
+    <a href="https://github.com/CachyOS/wiki" target="_blank"><code>CachyOS/wiki</code></a> - Wiki for CachyOS
   </li>
   <li>
     <a href="https://github.com/erffy/xlsx-file-migrator" target="_blank"><code>erffy/xlsx-file-migrator</code></a> - 

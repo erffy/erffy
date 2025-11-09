@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/enufak/enufak" target="_blank"><code>enufak/enufak</code></a> - A different dimension for freelancing
+  </li>
+  <li>
     <a href="https://github.com/yusufipk/AndroidAcikKalsin" target="_blank"><code>yusufipk/AndroidAcikKalsin</code></a> - 
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/Zigistry/Zigistry" target="_blank"><code>Zigistry/Zigistry</code></a> - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
-  </li>
-  <li>
-    <a href="https://github.com/lihenggui/blocker" target="_blank"><code>lihenggui/blocker</code></a> - Utilize an integrated firewall to manage application components.
   </li>
 </ol>
 

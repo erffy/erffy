@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/pcal43/quicksort" target="_blank"><code>pcal43/quicksort</code></a> - Minecraft mod.  Low-effort item sorting to keep your workshop organized. 
+  </li>
+  <li>
     <a href="https://github.com/enufak/enufak" target="_blank"><code>enufak/enufak</code></a> - A different dimension for freelancing
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/KRTirtho/spotube" target="_blank"><code>KRTirtho/spotube</code></a> - 🎧 Open source music client! Available for both desktop &amp; mobile!
-  </li>
-  <li>
-    <a href="https://github.com/Zigistry/Zigistry" target="_blank"><code>Zigistry/Zigistry</code></a> - A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
   </li>
 </ol>
 

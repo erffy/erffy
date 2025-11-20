@@ -89,6 +89,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/atom-community/atom" target="_blank"><code>atom-community/atom</code></a> - :atom: Community build of the hackable text editor
+  </li>
+  <li>
+    <a href="https://github.com/GhostSHAURMA/BetterCopperGolem" target="_blank"><code>GhostSHAURMA/BetterCopperGolem</code></a> - A small mods that tweaks vanilla golem AI
+  </li>
+  <li>
     <a href="https://github.com/pcal43/quicksort" target="_blank"><code>pcal43/quicksort</code></a> - Minecraft mod.  Low-effort item sorting to keep your workshop organized. 
   </li>
   <li>
@@ -96,12 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/yusufipk/AndroidAcikKalsin" target="_blank"><code>yusufipk/AndroidAcikKalsin</code></a> - 
-  </li>
-  <li>
-    <a href="https://github.com/Dokploy/dokploy" target="_blank"><code>Dokploy/dokploy</code></a> - Open Source Alternative to Vercel, Netlify and Heroku.
-  </li>
-  <li>
-    <a href="https://github.com/KRTirtho/spotube" target="_blank"><code>KRTirtho/spotube</code></a> - 🎧 Open source music client! Available for both desktop &amp; mobile!
   </li>
 </ol>
 

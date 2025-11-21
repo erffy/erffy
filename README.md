@@ -24,13 +24,13 @@
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
+    <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
+  </li>
+  <li>
     <a href="https://github.com/CachyOS/wiki" target="_blank"><code>CachyOS/wiki</code></a> - Wiki for CachyOS
   </li>
   <li>
     <a href="https://github.com/erffy/xlsx-file-migrator" target="_blank"><code>erffy/xlsx-file-migrator</code></a> - 
-  </li>
-  <li>
-    <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
   </li>
   <li>
     <a href="https://github.com/erffy-dots/fish" target="_blank"><code>erffy-dots/fish</code></a> - My fish config
@@ -89,6 +89,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/jordan-dalby/ByteStash" target="_blank"><code>jordan-dalby/ByteStash</code></a> - A code snippet storage solution written in React &amp; node.js
+  </li>
+  <li>
+    <a href="https://github.com/bikass/kora" target="_blank"><code>bikass/kora</code></a> - Kora icon theme for GNU/Linux os
+  </li>
+  <li>
     <a href="https://github.com/atom-community/atom" target="_blank"><code>atom-community/atom</code></a> - :atom: Community build of the hackable text editor
   </li>
   <li>
@@ -96,12 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/pcal43/quicksort" target="_blank"><code>pcal43/quicksort</code></a> - Minecraft mod.  Low-effort item sorting to keep your workshop organized. 
-  </li>
-  <li>
-    <a href="https://github.com/enufak/enufak" target="_blank"><code>enufak/enufak</code></a> - A different dimension for freelancing
-  </li>
-  <li>
-    <a href="https://github.com/yusufipk/AndroidAcikKalsin" target="_blank"><code>yusufipk/AndroidAcikKalsin</code></a> - 
   </li>
 </ol>
 

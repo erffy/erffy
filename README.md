@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/StevenBlack/hosts" target="_blank"><code>StevenBlack/hosts</code></a> - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+  </li>
+  <li>
     <a href="https://github.com/jordan-dalby/ByteStash" target="_blank"><code>jordan-dalby/ByteStash</code></a> - A code snippet storage solution written in React &amp; node.js
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/GhostSHAURMA/BetterCopperGolem" target="_blank"><code>GhostSHAURMA/BetterCopperGolem</code></a> - A small mods that tweaks vanilla golem AI
-  </li>
-  <li>
-    <a href="https://github.com/pcal43/quicksort" target="_blank"><code>pcal43/quicksort</code></a> - Minecraft mod.  Low-effort item sorting to keep your workshop organized. 
   </li>
 </ol>
 

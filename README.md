@@ -89,6 +89,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/gloeyisk/universal-gms-doze" target="_blank"><code>gloeyisk/universal-gms-doze</code></a> - Patches Google Play services app and certain processes/services to be able to use battery optimization
+  </li>
+  <li>
     <a href="https://github.com/StevenBlack/hosts" target="_blank"><code>StevenBlack/hosts</code></a> - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
   </li>
   <li>
@@ -99,9 +102,6 @@
   </li>
   <li>
     <a href="https://github.com/atom-community/atom" target="_blank"><code>atom-community/atom</code></a> - :atom: Community build of the hackable text editor
-  </li>
-  <li>
-    <a href="https://github.com/GhostSHAURMA/BetterCopperGolem" target="_blank"><code>GhostSHAURMA/BetterCopperGolem</code></a> - A small mods that tweaks vanilla golem AI
   </li>
 </ol>
 

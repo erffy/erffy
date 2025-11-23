@@ -6,14 +6,23 @@
 
 <p align="center">
   <i>
-    I love coding and listening to music.<br/>
-    My goal is to become a software engineer and continuously improve my skills in the field of software development.
+    Passionate developer who loves coding and music.<br/>
+    Always exploring new technologies and growing as a software engineer.
   </i>
 </p>
 
+---
+
 <p align="center">
-  🛠️ I'm currently working on <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>zig-waybar-contrib</code></a><br/>
-  🌱 I'm currently learning <b>Go</b> & <b>Zig</b>
+  <b>🚀 What I'm Working On</b><br/>
+  <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank">
+    <img src="https://img.shields.io/badge/zig--waybar--contrib-000?style=for-the-badge&logo=zig&logoColor=yellow" />
+  </a>
+</p>
+
+<p align="center">
+  <b>🌱 Currently Learning</b><br/>
+  <img src="https://img.shields.io/badge/Zig-fff?style=for-the-badge&logo=zig&logoColor=yellow" />
 </p>
 
 ---

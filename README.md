@@ -72,6 +72,10 @@
 <h4>🔨 My Recent Pull Requests</h4>
 <ol>
   <li>
+    <a href="https://github.com/CachyOS/CachyOS-PKGBUILDS/pull/993" target="_blank">cachyos-rate-mirrors: sync `chaotic-aur` repo if available</a> on
+    <a href="https://github.com/CachyOS/CachyOS-PKGBUILDS" target="_blank"><code>CachyOS/CachyOS-PKGBUILDS</code></a>
+  </li>
+  <li>
     <a href="https://github.com/CachyOS/wiki/pull/242" target="_blank">docs: hw-acc: add RX 550</a> on
     <a href="https://github.com/CachyOS/wiki" target="_blank"><code>CachyOS/wiki</code></a>
   </li>
@@ -85,10 +89,6 @@
   </li>
   <li>
     <a href="https://github.com/KernelSU-Next/KernelSU-Next/pull/597" target="_blank">Update README_TR translations</a> on
-    <a href="https://github.com/KernelSU-Next/KernelSU-Next" target="_blank"><code>KernelSU-Next/KernelSU-Next</code></a>
-  </li>
-  <li>
-    <a href="https://github.com/KernelSU-Next/KernelSU-Next/pull/562" target="_blank">Improve README</a> on
     <a href="https://github.com/KernelSU-Next/KernelSU-Next" target="_blank"><code>KernelSU-Next/KernelSU-Next</code></a>
   </li>
 </ol>

@@ -98,19 +98,19 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/fwupd/fwupd" target="_blank"><code>fwupd/fwupd</code></a> - A system daemon to allow session software to update firmware
+  </li>
+  <li>
+    <a href="https://github.com/Vencord/Vesktop" target="_blank"><code>Vencord/Vesktop</code></a> - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
+  </li>
+  <li>
+    <a href="https://github.com/henrygd/beszel" target="_blank"><code>henrygd/beszel</code></a> - Lightweight server monitoring hub with historical data, docker stats, and alerts.
+  </li>
+  <li>
     <a href="https://github.com/protonpass/android-pass" target="_blank"><code>protonpass/android-pass</code></a> - Android code for the Proton Pass application
   </li>
   <li>
     <a href="https://github.com/gloeyisk/universal-gms-doze" target="_blank"><code>gloeyisk/universal-gms-doze</code></a> - Patches Google Play services app and certain processes/services to be able to use battery optimization
-  </li>
-  <li>
-    <a href="https://github.com/StevenBlack/hosts" target="_blank"><code>StevenBlack/hosts</code></a> - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-  </li>
-  <li>
-    <a href="https://github.com/jordan-dalby/ByteStash" target="_blank"><code>jordan-dalby/ByteStash</code></a> - A code snippet storage solution written in React &amp; node.js
-  </li>
-  <li>
-    <a href="https://github.com/bikass/kora" target="_blank"><code>bikass/kora</code></a> - Kora icon theme for GNU/Linux os
   </li>
 </ol>
 

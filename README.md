@@ -30,6 +30,9 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/Zig-Index/registry" target="_blank"><code>Zig-Index/registry</code></a> - The official registry of Zig packages and applications for Zig Index.
+  </li>
+  <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
@@ -40,9 +43,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy/xlsx-file-migrator" target="_blank"><code>erffy/xlsx-file-migrator</code></a> - 
-  </li>
-  <li>
-    <a href="https://github.com/erffy-dots/fish" target="_blank"><code>erffy-dots/fish</code></a> - My fish config
   </li>
 </ol>
 

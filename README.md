@@ -30,6 +30,9 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/erffy-dots/.github" target="_blank"><code>erffy-dots/.github</code></a> - 
+  </li>
+  <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
@@ -40,9 +43,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
-  </li>
-  <li>
-    <a href="https://github.com/CachyOS/wiki" target="_blank"><code>CachyOS/wiki</code></a> - Wiki for CachyOS
   </li>
 </ol>
 
@@ -98,19 +98,19 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/ReVanced/revanced-manager" target="_blank"><code>ReVanced/revanced-manager</code></a> - 💊 Application to use ReVanced on Android 
+  </li>
+  <li>
+    <a href="https://github.com/nix-community/home-manager" target="_blank"><code>nix-community/home-manager</code></a> - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
+  </li>
+  <li>
+    <a href="https://github.com/VSCodium/vscodium" target="_blank"><code>VSCodium/vscodium</code></a> - binary releases of VS Code without MS branding/telemetry/licensing
+  </li>
+  <li>
     <a href="https://github.com/fwupd/fwupd" target="_blank"><code>fwupd/fwupd</code></a> - A system daemon to allow session software to update firmware
   </li>
   <li>
     <a href="https://github.com/Vencord/Vesktop" target="_blank"><code>Vencord/Vesktop</code></a> - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
-  </li>
-  <li>
-    <a href="https://github.com/henrygd/beszel" target="_blank"><code>henrygd/beszel</code></a> - Lightweight server monitoring hub with historical data, docker stats, and alerts.
-  </li>
-  <li>
-    <a href="https://github.com/protonpass/android-pass" target="_blank"><code>protonpass/android-pass</code></a> - Android code for the Proton Pass application
-  </li>
-  <li>
-    <a href="https://github.com/gloeyisk/universal-gms-doze" target="_blank"><code>gloeyisk/universal-gms-doze</code></a> - Patches Google Play services app and certain processes/services to be able to use battery optimization
   </li>
 </ol>
 

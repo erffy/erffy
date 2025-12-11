@@ -33,7 +33,7 @@
     <a href="https://github.com/erffy-dots/.github" target="_blank"><code>erffy-dots/.github</code></a> - 
   </li>
   <li>
-    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
+    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - MIGRATED TO CODEBERG
   </li>
   <li>
     <a href="https://github.com/erffy/zilverfetch" target="_blank"><code>erffy/zilverfetch</code></a> - [WIP] Unleash Zig’s power to fetch your system info at lightning speed. 
@@ -63,7 +63,7 @@
     <a href="https://github.com/erffy/chromium-web-store" target="_blank"><code>erffy/chromium-web-store</code></a> - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
   </li>
   <li>
-    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
+    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - MIGRATED TO CODEBERG
   </li>
 </ol>
 
@@ -98,6 +98,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/PrismLauncher/PrismLauncher" target="_blank"><code>PrismLauncher/PrismLauncher</code></a> - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
+  </li>
+  <li>
     <a href="https://github.com/ReVanced/revanced-manager" target="_blank"><code>ReVanced/revanced-manager</code></a> - 💊 Application to use ReVanced on Android 
   </li>
   <li>
@@ -108,9 +111,6 @@
   </li>
   <li>
     <a href="https://github.com/fwupd/fwupd" target="_blank"><code>fwupd/fwupd</code></a> - A system daemon to allow session software to update firmware
-  </li>
-  <li>
-    <a href="https://github.com/Vencord/Vesktop" target="_blank"><code>Vencord/Vesktop</code></a> - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
   </li>
 </ol>
 

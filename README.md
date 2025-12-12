@@ -98,6 +98,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/getarcaneapp/arcane" target="_blank"><code>getarcaneapp/arcane</code></a> - Modern Docker Management, Designed for Everyone
+  </li>
+  <li>
     <a href="https://github.com/PrismLauncher/PrismLauncher" target="_blank"><code>PrismLauncher/PrismLauncher</code></a> - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
   </li>
   <li>
@@ -108,9 +111,6 @@
   </li>
   <li>
     <a href="https://github.com/VSCodium/vscodium" target="_blank"><code>VSCodium/vscodium</code></a> - binary releases of VS Code without MS branding/telemetry/licensing
-  </li>
-  <li>
-    <a href="https://github.com/fwupd/fwupd" target="_blank"><code>fwupd/fwupd</code></a> - A system daemon to allow session software to update firmware
   </li>
 </ol>
 

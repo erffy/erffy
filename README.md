@@ -98,6 +98,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/dockpeek/dockpeek" target="_blank"><code>dockpeek/dockpeek</code></a> - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
+  </li>
+  <li>
     <a href="https://github.com/getarcaneapp/arcane" target="_blank"><code>getarcaneapp/arcane</code></a> - Modern Docker Management, Designed for Everyone
   </li>
   <li>
@@ -108,9 +111,6 @@
   </li>
   <li>
     <a href="https://github.com/nix-community/home-manager" target="_blank"><code>nix-community/home-manager</code></a> - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
-  </li>
-  <li>
-    <a href="https://github.com/VSCodium/vscodium" target="_blank"><code>VSCodium/vscodium</code></a> - binary releases of VS Code without MS branding/telemetry/licensing
   </li>
 </ol>
 

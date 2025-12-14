@@ -98,6 +98,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/dani-garcia/vaultwarden" target="_blank"><code>dani-garcia/vaultwarden</code></a> - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+  </li>
+  <li>
     <a href="https://github.com/dockpeek/dockpeek" target="_blank"><code>dockpeek/dockpeek</code></a> - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
   </li>
   <li>
@@ -108,9 +111,6 @@
   </li>
   <li>
     <a href="https://github.com/ReVanced/revanced-manager" target="_blank"><code>ReVanced/revanced-manager</code></a> - 💊 Application to use ReVanced on Android 
-  </li>
-  <li>
-    <a href="https://github.com/nix-community/home-manager" target="_blank"><code>nix-community/home-manager</code></a> - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
   </li>
 </ol>
 

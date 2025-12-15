@@ -98,6 +98,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/Ylarod/ddk" target="_blank"><code>Ylarod/ddk</code></a> - 内核驱动开发工具包 (Kernel Driver Development Kit)
+  </li>
+  <li>
     <a href="https://github.com/dani-garcia/vaultwarden" target="_blank"><code>dani-garcia/vaultwarden</code></a> - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
   </li>
   <li>
@@ -108,9 +111,6 @@
   </li>
   <li>
     <a href="https://github.com/PrismLauncher/PrismLauncher" target="_blank"><code>PrismLauncher/PrismLauncher</code></a> - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
-  </li>
-  <li>
-    <a href="https://github.com/ReVanced/revanced-manager" target="_blank"><code>ReVanced/revanced-manager</code></a> - 💊 Application to use ReVanced on Android 
   </li>
 </ol>
 

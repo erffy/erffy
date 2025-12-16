@@ -98,6 +98,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/Numbersf/MakeFontsGreatAgain" target="_blank"><code>Numbersf/MakeFontsGreatAgain</code></a> - Revokes GMS&#39;s Font Provider to force GApps and other Apps to use system-custom fonts.Support the latest Unicode.
+  </li>
+  <li>
+    <a href="https://github.com/spacealtctrl/microg_installer_revived_again" target="_blank"><code>spacealtctrl/microg_installer_revived_again</code></a> - Install microG GmsCore, GsfProxy, FakeStore/Play Store and MapsV1 to /system/
+  </li>
+  <li>
     <a href="https://github.com/Ylarod/ddk" target="_blank"><code>Ylarod/ddk</code></a> - 内核驱动开发工具包 (Kernel Driver Development Kit)
   </li>
   <li>
@@ -105,12 +111,6 @@
   </li>
   <li>
     <a href="https://github.com/dockpeek/dockpeek" target="_blank"><code>dockpeek/dockpeek</code></a> - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
-  </li>
-  <li>
-    <a href="https://github.com/getarcaneapp/arcane" target="_blank"><code>getarcaneapp/arcane</code></a> - Modern Docker Management, Designed for Everyone
-  </li>
-  <li>
-    <a href="https://github.com/PrismLauncher/PrismLauncher" target="_blank"><code>PrismLauncher/PrismLauncher</code></a> - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
   </li>
 </ol>
 

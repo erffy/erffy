@@ -30,10 +30,10 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
-    <a href="https://github.com/erffy-dots/.github" target="_blank"><code>erffy-dots/.github</code></a> - 
+    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
-    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
+    <a href="https://github.com/erffy-dots/.github" target="_blank"><code>erffy-dots/.github</code></a> - 
   </li>
   <li>
     <a href="https://github.com/erffy/zilverfetch" target="_blank"><code>erffy/zilverfetch</code></a> - [WIP] Unleash Zig’s power to fetch your system info at lightning speed. 

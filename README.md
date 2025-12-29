@@ -98,6 +98,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/tauri-apps/tauri" target="_blank"><code>tauri-apps/tauri</code></a> - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+  </li>
+  <li>
     <a href="https://github.com/Tools-cx-app/meta-magic_mount" target="_blank"><code>Tools-cx-app/meta-magic_mount</code></a> - Magic Mount Metamodule
   </li>
   <li>
@@ -108,9 +111,6 @@
   </li>
   <li>
     <a href="https://github.com/Numbersf/MakeFontsGreatAgain" target="_blank"><code>Numbersf/MakeFontsGreatAgain</code></a> - Revokes GMS&#39;s Font Provider to force GApps and other Apps to use system-custom fonts.Support the latest Unicode.
-  </li>
-  <li>
-    <a href="https://github.com/spacealtctrl/microg_installer_revived_again" target="_blank"><code>spacealtctrl/microg_installer_revived_again</code></a> - Install microG GmsCore, GsfProxy, FakeStore/Play Store and MapsV1 to /system/
   </li>
 </ol>
 

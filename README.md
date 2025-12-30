@@ -98,6 +98,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/rcalixte/libqt6zig" target="_blank"><code>rcalixte/libqt6zig</code></a> - Qt 6 for Zig
+  </li>
+  <li>
+    <a href="https://github.com/wmww/gtk4-layer-shell" target="_blank"><code>wmww/gtk4-layer-shell</code></a> - A library to create panels and other desktop components for Wayland using the Layer Shell protocol and GTK4
+  </li>
+  <li>
     <a href="https://github.com/tauri-apps/tauri" target="_blank"><code>tauri-apps/tauri</code></a> - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
   </li>
   <li>
@@ -105,12 +111,6 @@
   </li>
   <li>
     <a href="https://github.com/ImranR98/Obtainium" target="_blank"><code>ImranR98/Obtainium</code></a> - Get Android app updates straight from the source.
-  </li>
-  <li>
-    <a href="https://github.com/YuzakiKokuban/meta-hybrid_mount" target="_blank"><code>YuzakiKokuban/meta-hybrid_mount</code></a> - Hybrid Mount Metamodule
-  </li>
-  <li>
-    <a href="https://github.com/Numbersf/MakeFontsGreatAgain" target="_blank"><code>Numbersf/MakeFontsGreatAgain</code></a> - Revokes GMS&#39;s Font Provider to force GApps and other Apps to use system-custom fonts.Support the latest Unicode.
   </li>
 </ol>
 

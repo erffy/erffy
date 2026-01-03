@@ -98,6 +98,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/hendriknielaender/zvm" target="_blank"><code>hendriknielaender/zvm</code></a> - ⚡ Fast and simple zig version manager (zvm)
+  </li>
+  <li>
     <a href="https://github.com/rcalixte/libqt6zig" target="_blank"><code>rcalixte/libqt6zig</code></a> - Qt 6 for Zig
   </li>
   <li>
@@ -108,9 +111,6 @@
   </li>
   <li>
     <a href="https://github.com/Tools-cx-app/meta-magic_mount" target="_blank"><code>Tools-cx-app/meta-magic_mount</code></a> - Magic Mount Metamodule
-  </li>
-  <li>
-    <a href="https://github.com/ImranR98/Obtainium" target="_blank"><code>ImranR98/Obtainium</code></a> - Get Android app updates straight from the source.
   </li>
 </ol>
 

@@ -98,6 +98,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/mitchellh/zig-overlay" target="_blank"><code>mitchellh/zig-overlay</code></a> - Nix flake for the Zig compiler.
+  </li>
+  <li>
+    <a href="https://github.com/xddxdd/nix-cachyos-kernel" target="_blank"><code>xddxdd/nix-cachyos-kernel</code></a> - CachyOS kernel for NixOS
+  </li>
+  <li>
     <a href="https://github.com/hendriknielaender/zvm" target="_blank"><code>hendriknielaender/zvm</code></a> - ⚡ Fast and simple zig version manager (zvm)
   </li>
   <li>
@@ -105,12 +111,6 @@
   </li>
   <li>
     <a href="https://github.com/wmww/gtk4-layer-shell" target="_blank"><code>wmww/gtk4-layer-shell</code></a> - A library to create panels and other desktop components for Wayland using the Layer Shell protocol and GTK4
-  </li>
-  <li>
-    <a href="https://github.com/tauri-apps/tauri" target="_blank"><code>tauri-apps/tauri</code></a> - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-  </li>
-  <li>
-    <a href="https://github.com/Tools-cx-app/meta-magic_mount" target="_blank"><code>Tools-cx-app/meta-magic_mount</code></a> - Magic Mount Metamodule
   </li>
 </ol>
 

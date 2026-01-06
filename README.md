@@ -98,6 +98,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/bol-van/zapret2" target="_blank"><code>bol-van/zapret2</code></a> - anti-dpi software
+  </li>
+  <li>
+    <a href="https://github.com/sched-ext/scx" target="_blank"><code>sched-ext/scx</code></a> - sched_ext schedulers and tools
+  </li>
+  <li>
     <a href="https://github.com/mitchellh/zig-overlay" target="_blank"><code>mitchellh/zig-overlay</code></a> - Nix flake for the Zig compiler.
   </li>
   <li>
@@ -105,12 +111,6 @@
   </li>
   <li>
     <a href="https://github.com/hendriknielaender/zvm" target="_blank"><code>hendriknielaender/zvm</code></a> - ⚡ Fast and simple zig version manager (zvm)
-  </li>
-  <li>
-    <a href="https://github.com/rcalixte/libqt6zig" target="_blank"><code>rcalixte/libqt6zig</code></a> - Qt 6 for Zig
-  </li>
-  <li>
-    <a href="https://github.com/wmww/gtk4-layer-shell" target="_blank"><code>wmww/gtk4-layer-shell</code></a> - A library to create panels and other desktop components for Wayland using the Layer Shell protocol and GTK4
   </li>
 </ol>
 

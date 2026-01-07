@@ -18,6 +18,9 @@
   <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank">
     <img src="https://img.shields.io/badge/zig--waybar--contrib-000?style=for-the-badge&logo=zig&logoColor=yellow" />
   </a>
+  <a href="https://github.com/erffy/zvm" target="_blank">
+    <img src="https://img.shields.io/badge/zvm-000?style=for-the-badge&logo=GNU%20Bash&logoColor=green" />
+  </a>
 </p>
 
 <p align="center">
@@ -98,6 +101,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/systemd/systemd" target="_blank"><code>systemd/systemd</code></a> - The systemd System and Service Manager 
+  </li>
+  <li>
     <a href="https://github.com/theovilardo/PixelPlayer" target="_blank"><code>theovilardo/PixelPlayer</code></a> - 
   </li>
   <li>
@@ -108,9 +114,6 @@
   </li>
   <li>
     <a href="https://github.com/mitchellh/zig-overlay" target="_blank"><code>mitchellh/zig-overlay</code></a> - Nix flake for the Zig compiler.
-  </li>
-  <li>
-    <a href="https://github.com/xddxdd/nix-cachyos-kernel" target="_blank"><code>xddxdd/nix-cachyos-kernel</code></a> - CachyOS kernel for NixOS
   </li>
 </ol>
 

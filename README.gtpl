@@ -18,8 +18,8 @@
   <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank">
     <img src="https://img.shields.io/badge/zig--waybar--contrib-000?style=for-the-badge&logo=zig&logoColor=yellow" />
   </a>
-  <a href="https://github.com/erffy/zvm" target="_blank">
-    <img src="https://img.shields.io/badge/zvm-000?style=for-the-badge&logo=GNU%20Bash&logoColor=green" />
+  <a href="https://github.com/erffy/zix" target="_blank">
+    <img src="https://img.shields.io/badge/zix-000?style=for-the-badge&logo=GNU%20Bash&logoColor=green" />
   </a>
 </p>
 

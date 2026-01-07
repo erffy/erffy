@@ -30,6 +30,9 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/erffy/zvm" target="_blank"><code>erffy/zvm</code></a> - A fast, lightweight, and powerful Zig version manager
+  </li>
+  <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
@@ -41,15 +44,15 @@
   <li>
     <a href="https://github.com/Zig-Index/registry" target="_blank"><code>Zig-Index/registry</code></a> - The unofficial registry of Zig packages and applications projects for Zig Index.
   </li>
-  <li>
-    <a href="https://github.com/erffy-dots/.generic" target="_blank"><code>erffy-dots/.generic</code></a> - 
-  </li>
 </ol>
 
 <br/>
 
 <h4>🌱 My Latest Projects</h4>
 <ol>
+  <li>
+    <a href="https://github.com/erffy/zvm" target="_blank"><code>erffy/zvm</code></a> - A fast, lightweight, and powerful Zig version manager
+  </li>
   <li>
     <a href="https://github.com/erffy/xlsx-file-migrator" target="_blank"><code>erffy/xlsx-file-migrator</code></a> - 
   </li>
@@ -61,9 +64,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy/chromium-web-store" target="_blank"><code>erffy/chromium-web-store</code></a> - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
-  </li>
-  <li>
-    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
 </ol>
 
@@ -98,6 +98,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/theovilardo/PixelPlayer" target="_blank"><code>theovilardo/PixelPlayer</code></a> - 
+  </li>
+  <li>
     <a href="https://github.com/bol-van/zapret2" target="_blank"><code>bol-van/zapret2</code></a> - anti-dpi software
   </li>
   <li>
@@ -108,9 +111,6 @@
   </li>
   <li>
     <a href="https://github.com/xddxdd/nix-cachyos-kernel" target="_blank"><code>xddxdd/nix-cachyos-kernel</code></a> - CachyOS kernel for NixOS
-  </li>
-  <li>
-    <a href="https://github.com/hendriknielaender/zvm" target="_blank"><code>hendriknielaender/zvm</code></a> - ⚡ Fast and simple zig version manager (zvm)
   </li>
 </ol>
 

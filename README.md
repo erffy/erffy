@@ -101,6 +101,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/mxrcochxvez/hytale-mod-initializer" target="_blank"><code>mxrcochxvez/hytale-mod-initializer</code></a> - 
+  </li>
+  <li>
+    <a href="https://github.com/Kaupenjoe/Hytale-Example-Plugin" target="_blank"><code>Kaupenjoe/Hytale-Example-Plugin</code></a> - A template for Hytale java plugins. Highly WIP, things might break! 🙏🏻
+  </li>
+  <li>
     <a href="https://github.com/systemd/systemd" target="_blank"><code>systemd/systemd</code></a> - The systemd System and Service Manager 
   </li>
   <li>
@@ -108,12 +114,6 @@
   </li>
   <li>
     <a href="https://github.com/bol-van/zapret2" target="_blank"><code>bol-van/zapret2</code></a> - anti-dpi software
-  </li>
-  <li>
-    <a href="https://github.com/sched-ext/scx" target="_blank"><code>sched-ext/scx</code></a> - sched_ext schedulers and tools
-  </li>
-  <li>
-    <a href="https://github.com/mitchellh/zig-overlay" target="_blank"><code>mitchellh/zig-overlay</code></a> - Nix flake for the Zig compiler.
   </li>
 </ol>
 

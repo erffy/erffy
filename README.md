@@ -33,10 +33,10 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
-    <a href="https://github.com/erffy/zix" target="_blank"><code>erffy/zix</code></a> - A fast, lightweight, and powerful Zig version manager. [GitHub Mirror]
+    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
-    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
+    <a href="https://github.com/erffy/zix" target="_blank"><code>erffy/zix</code></a> - A fast, lightweight, and powerful Zig version manager. [GitHub Mirror]
   </li>
   <li>
     <a href="https://github.com/erffy-dots/.github" target="_blank"><code>erffy-dots/.github</code></a> - 

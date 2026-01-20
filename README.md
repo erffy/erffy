@@ -101,6 +101,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/wilsonzlin/fastrender" target="_blank"><code>wilsonzlin/fastrender</code></a> - Experimental new browser engine
+  </li>
+  <li>
     <a href="https://github.com/mxrcochxvez/hytale-mod-initializer" target="_blank"><code>mxrcochxvez/hytale-mod-initializer</code></a> - 
   </li>
   <li>
@@ -111,9 +114,6 @@
   </li>
   <li>
     <a href="https://github.com/theovilardo/PixelPlayer" target="_blank"><code>theovilardo/PixelPlayer</code></a> - 
-  </li>
-  <li>
-    <a href="https://github.com/bol-van/zapret2" target="_blank"><code>bol-van/zapret2</code></a> - anti-dpi software
   </li>
 </ol>
 

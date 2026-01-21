@@ -33,10 +33,13 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
-    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
+    <a href="https://github.com/erffy/zix" target="_blank"><code>erffy/zix</code></a> - A fast, lightweight, and powerful Zig version manager. [GitHub Mirror]
   </li>
   <li>
-    <a href="https://github.com/erffy/zix" target="_blank"><code>erffy/zix</code></a> - A fast, lightweight, and powerful Zig version manager. [GitHub Mirror]
+    <a href="https://github.com/erffy/zig-sysinfo" target="_blank"><code>erffy/zig-sysinfo</code></a> - A library that retrieves system information
+  </li>
+  <li>
+    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
     <a href="https://github.com/erffy-dots/.github" target="_blank"><code>erffy-dots/.github</code></a> - 
@@ -44,15 +47,15 @@
   <li>
     <a href="https://github.com/erffy/zilverfetch" target="_blank"><code>erffy/zilverfetch</code></a> - [WIP] Unleash Zig’s power to fetch your system info at lightning speed. 
   </li>
-  <li>
-    <a href="https://github.com/Zig-Index/registry" target="_blank"><code>Zig-Index/registry</code></a> - The unofficial registry of Zig packages and applications projects for Zig Index.
-  </li>
 </ol>
 
 <br/>
 
 <h4>🌱 My Latest Projects</h4>
 <ol>
+  <li>
+    <a href="https://github.com/erffy/zig-sysinfo" target="_blank"><code>erffy/zig-sysinfo</code></a> - A library that retrieves system information
+  </li>
   <li>
     <a href="https://github.com/erffy/zix" target="_blank"><code>erffy/zix</code></a> - A fast, lightweight, and powerful Zig version manager. [GitHub Mirror]
   </li>
@@ -64,9 +67,6 @@
   </li>
   <li>
     <a href="https://github.com/erffy/stars" target="_blank"><code>erffy/stars</code></a> - 
-  </li>
-  <li>
-    <a href="https://github.com/erffy/chromium-web-store" target="_blank"><code>erffy/chromium-web-store</code></a> - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
   </li>
 </ol>
 
@@ -101,6 +101,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/thedjchi/Shizuku" target="_blank"><code>thedjchi/Shizuku</code></a> - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+  </li>
+  <li>
     <a href="https://github.com/wilsonzlin/fastrender" target="_blank"><code>wilsonzlin/fastrender</code></a> - Experimental new browser engine
   </li>
   <li>
@@ -111,9 +114,6 @@
   </li>
   <li>
     <a href="https://github.com/systemd/systemd" target="_blank"><code>systemd/systemd</code></a> - The systemd System and Service Manager 
-  </li>
-  <li>
-    <a href="https://github.com/theovilardo/PixelPlayer" target="_blank"><code>theovilardo/PixelPlayer</code></a> - 
   </li>
 </ol>
 

@@ -36,10 +36,10 @@
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
-    <a href="https://github.com/erffy/zix" target="_blank"><code>erffy/zix</code></a> - A fast, lightweight, and powerful Zig version manager. [GitHub Mirror]
+    <a href="https://github.com/erffy/zig-sysinfo" target="_blank"><code>erffy/zig-sysinfo</code></a> - A library that retrieves system information
   </li>
   <li>
-    <a href="https://github.com/erffy/zig-sysinfo" target="_blank"><code>erffy/zig-sysinfo</code></a> - A library that retrieves system information
+    <a href="https://github.com/erffy/zix" target="_blank"><code>erffy/zix</code></a> - A fast, lightweight, and powerful Zig version manager. [GitHub Mirror]
   </li>
   <li>
     <a href="https://github.com/erffy-dots/.github" target="_blank"><code>erffy-dots/.github</code></a> - 
@@ -101,6 +101,12 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/koiverse/ArchiveTune" target="_blank"><code>koiverse/ArchiveTune</code></a> - The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.
+  </li>
+  <li>
+    <a href="https://github.com/LettuceAI/mobile-app" target="_blank"><code>LettuceAI/mobile-app</code></a> - Official mobile app for LettuceAI.
+  </li>
+  <li>
     <a href="https://github.com/thedjchi/Shizuku" target="_blank"><code>thedjchi/Shizuku</code></a> - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
   </li>
   <li>
@@ -108,12 +114,6 @@
   </li>
   <li>
     <a href="https://github.com/mxrcochxvez/hytale-mod-initializer" target="_blank"><code>mxrcochxvez/hytale-mod-initializer</code></a> - 
-  </li>
-  <li>
-    <a href="https://github.com/Kaupenjoe/Hytale-Example-Plugin" target="_blank"><code>Kaupenjoe/Hytale-Example-Plugin</code></a> - A template for Hytale java plugins. Highly WIP, things might break! 🙏🏻
-  </li>
-  <li>
-    <a href="https://github.com/systemd/systemd" target="_blank"><code>systemd/systemd</code></a> - The systemd System and Service Manager 
   </li>
 </ol>
 

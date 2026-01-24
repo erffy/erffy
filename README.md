@@ -101,6 +101,9 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/Finsys/dockhand" target="_blank"><code>Finsys/dockhand</code></a> - Dockhand - Docker management you will like.
+  </li>
+  <li>
     <a href="https://github.com/koiverse/ArchiveTune" target="_blank"><code>koiverse/ArchiveTune</code></a> - The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.
   </li>
   <li>
@@ -111,9 +114,6 @@
   </li>
   <li>
     <a href="https://github.com/wilsonzlin/fastrender" target="_blank"><code>wilsonzlin/fastrender</code></a> - Experimental new browser engine
-  </li>
-  <li>
-    <a href="https://github.com/mxrcochxvez/hytale-mod-initializer" target="_blank"><code>mxrcochxvez/hytale-mod-initializer</code></a> - 
   </li>
 </ol>
 

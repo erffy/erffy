@@ -30,45 +30,8 @@
 
 <p align="center">
   <b>🌱 Currently Learning</b><br/>
-  <img src="https://img.shields.io/badge/Zig-fff?style=for-the-badge&logo=zig&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Zig-000?style=for-the-badge&logo=zig&logoColor=orange" />
 </p>
-
----
-
-<h4>👷 Check out what I'm currently working on</h4>
-<ol>{{ range recentContributions 5 }}
-  <li>
-    <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a> - {{ .Repo.Description }}
-  </li>{{- end }}
-</ol>
-
-<br/>
-
-<h4>🌱 My Latest Projects</h4>
-<ol>{{ range recentRepos 5 }}
-  <li>
-    <a href="{{ .URL }}" target="_blank"><code>{{ .Name }}</code></a> - {{ .Description }}
-  </li>{{- end }}
-</ol>
-
-<br/>
-
-<h4>🔨 My Recent Pull Requests</h4>
-<ol>{{ range recentPullRequests 5 }}
-  <li>
-    <a href="{{ .URL }}" target="_blank">{{ .Title }}</a> on
-    <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a>
-  </li>{{- end }}
-</ol>
-
-<br/>
-
-<h4>⭐ Recent Stars</h4>
-<ol>{{ range recentStars 5 }}
-  <li>
-    <a href="{{ .Repo.URL }}" target="_blank"><code>{{ .Repo.Name }}</code></a> - {{ .Repo.Description }}
-  </li>{{- end }}
-</ol>
 
 ---
 

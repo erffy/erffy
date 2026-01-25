@@ -2,6 +2,8 @@
 
 <p align="center">
   <b>Hi, I'm Eren!</b>
+  <br>
+  I'm <b>heavily</b> on <a href="https://codeberg.org/erffy">Codeberg</a>
 </p>
 
 <p align="center">

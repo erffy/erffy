@@ -2,6 +2,8 @@
 
 <p align="center">
   <b>Hi, I'm Eren!</b>
+  <br>
+  I'm <b>heavily</b> on <a href="https://codeberg.org/erffy">Codeberg</a>
 </p>
 
 <p align="center">
@@ -36,19 +38,19 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ol>
   <li>
+    <a href="https://github.com/erffy/zix" target="_blank"><code>erffy/zix</code></a> - A fast, lightweight, and powerful Zig version manager.
+  </li>
+  <li>
     <a href="https://github.com/erffy/zig-sysinfo" target="_blank"><code>erffy/zig-sysinfo</code></a> - A library that retrieves system information
   </li>
   <li>
     <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
   <li>
-    <a href="https://github.com/erffy/zix" target="_blank"><code>erffy/zix</code></a> - A fast, lightweight, and powerful Zig version manager. [GitHub Mirror]
-  </li>
-  <li>
-    <a href="https://github.com/erffy-dots/.github" target="_blank"><code>erffy-dots/.github</code></a> - 
-  </li>
-  <li>
     <a href="https://github.com/Zig-Index/registry" target="_blank"><code>Zig-Index/registry</code></a> - The unofficial registry of Zig packages and applications projects for Zig Index.
+  </li>
+  <li>
+    <a href="https://github.com/CachyOS/wiki" target="_blank"><code>CachyOS/wiki</code></a> - Wiki for CachyOS
   </li>
 </ol>
 
@@ -60,16 +62,13 @@
     <a href="https://github.com/erffy/zig-sysinfo" target="_blank"><code>erffy/zig-sysinfo</code></a> - A library that retrieves system information
   </li>
   <li>
-    <a href="https://github.com/erffy/zix" target="_blank"><code>erffy/zix</code></a> - A fast, lightweight, and powerful Zig version manager. [GitHub Mirror]
-  </li>
-  <li>
-    <a href="https://github.com/erffy/xlsx-file-migrator" target="_blank"><code>erffy/xlsx-file-migrator</code></a> - 
+    <a href="https://github.com/erffy/zix" target="_blank"><code>erffy/zix</code></a> - A fast, lightweight, and powerful Zig version manager.
   </li>
   <li>
     <a href="https://github.com/erffy/stars" target="_blank"><code>erffy/stars</code></a> - 
   </li>
   <li>
-    <a href="https://github.com/erffy/chromium-web-store" target="_blank"><code>erffy/chromium-web-store</code></a> - Enables installation of Chrome Web Store extensions in UnGoogled Chromium. Also provides semi-automatic extension updates.
+    <a href="https://github.com/erffy/zig-waybar-contrib" target="_blank"><code>erffy/zig-waybar-contrib</code></a> - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
   </li>
 </ol>
 
@@ -104,19 +103,19 @@
 <h4>⭐ Recent Stars</h4>
 <ol>
   <li>
+    <a href="https://github.com/erffy/zix" target="_blank"><code>erffy/zix</code></a> - A fast, lightweight, and powerful Zig version manager.
+  </li>
+  <li>
+    <a href="https://github.com/C4illin/ConvertX" target="_blank"><code>C4illin/ConvertX</code></a> - 💾 Self-hosted online file converter. Supports 1000&#43; formats ⚙️
+  </li>
+  <li>
+    <a href="https://github.com/hagezi/dns-blocklists" target="_blank"><code>hagezi/dns-blocklists</code></a> - DNS-Blocklists: For a better internet - keep the internet clean!
+  </li>
+  <li>
     <a href="https://github.com/erffy/zig-sysinfo" target="_blank"><code>erffy/zig-sysinfo</code></a> - A library that retrieves system information
   </li>
   <li>
     <a href="https://github.com/Finsys/dockhand" target="_blank"><code>Finsys/dockhand</code></a> - Dockhand - Docker management you will like.
-  </li>
-  <li>
-    <a href="https://github.com/koiverse/ArchiveTune" target="_blank"><code>koiverse/ArchiveTune</code></a> - The cutest Material 3 Expressive music streaming client for Android, built for performance and extensibility.
-  </li>
-  <li>
-    <a href="https://github.com/LettuceAI/mobile-app" target="_blank"><code>LettuceAI/mobile-app</code></a> - Official mobile app for LettuceAI.
-  </li>
-  <li>
-    <a href="https://github.com/thedjchi/Shizuku" target="_blank"><code>thedjchi/Shizuku</code></a> - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
   </li>
 </ol>
 
